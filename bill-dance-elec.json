@@ -1,0 +1,458 @@
+{
+    "_timeout": 25,
+    "date": "2019-06-01",
+    "entries": [
+        {
+            "artist": "Marshmello & Bastille",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Happier",
+            "weeks": 40
+        },
+        {
+            "artist": "Marshmello Featuring CHVRCHES",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 2,
+            "rank": 2,
+            "title": "Here With Me",
+            "weeks": 11
+        },
+        {
+            "artist": "Ellie Goulding X Diplo Featuring Swae Lee",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 2,
+            "rank": 3,
+            "title": "Close To Me",
+            "weeks": 30
+        },
+        {
+            "artist": "The Chainsmokers Featuring 5 Seconds Of Summer",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 4,
+            "rank": 4,
+            "title": "Who Do You Love",
+            "weeks": 16
+        },
+        {
+            "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 2,
+            "rank": 5,
+            "title": "Taki Taki",
+            "weeks": 34
+        },
+        {
+            "artist": "Avicii Featuring Aloe Blacc",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 6,
+            "rank": 6,
+            "title": "SOS",
+            "weeks": 7
+        },
+        {
+            "artist": "Martin Garrix Featuring Macklemore & Patrick Stump",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 7,
+            "rank": 7,
+            "title": "Summer Days",
+            "weeks": 4
+        },
+        {
+            "artist": "Illenium & Jon Bellion",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "Good Things Fall Apart",
+            "weeks": 2
+        },
+        {
+            "artist": "The Chainsmokers Featuring Kelsea Ballerini",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 4,
+            "rank": 9,
+            "title": "This Feeling",
+            "weeks": 36
+        },
+        {
+            "artist": "Kygo & Rita Ora",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 7,
+            "rank": 10,
+            "title": "Carry On",
+            "weeks": 5
+        },
+        {
+            "artist": "Meduza Featuring GOODBOYS",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 11,
+            "rank": 11,
+            "title": "Piece Of Your Heart",
+            "weeks": 9
+        },
+        {
+            "artist": "Alan Walker, Sabrina Carpenter & Farruko",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 8,
+            "rank": 12,
+            "title": "On My Way",
+            "weeks": 9
+        },
+        {
+            "artist": "Avicii Featuring Angus & Vargas & Lagola",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 9,
+            "rank": 13,
+            "title": "Tough Love",
+            "weeks": 2
+        },
+        {
+            "artist": "Jax Jones, Martin Solveig & Madison Beer",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 14,
+            "rank": 14,
+            "title": "All Day And Night",
+            "weeks": 8
+        },
+        {
+            "artist": "Alan Walker, K-391 & Emelie Hollow",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 12,
+            "rank": 15,
+            "title": "Lily",
+            "weeks": 16
+        },
+        {
+            "artist": "Jonas Blue Featuring Theresa Rex",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 13,
+            "rank": 16,
+            "title": "What I Like About You",
+            "weeks": 9
+        },
+        {
+            "artist": "Calvin Harris & Rag'n'Bone Man",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 8,
+            "rank": 17,
+            "title": "Giant",
+            "weeks": 19
+        },
+        {
+            "artist": "Zedd & Katy Perry",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 7,
+            "rank": 18,
+            "title": "365",
+            "weeks": 15
+        },
+        {
+            "artist": "HUGEL Featuring Amber Van Day",
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "WTF",
+            "weeks": 4
+        },
+        {
+            "artist": "RL Grime Featuring 24hrs",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 19,
+            "rank": 20,
+            "title": "UCLA",
+            "weeks": 26
+        },
+        {
+            "artist": "Gesaffelstein & The Weeknd",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 3,
+            "rank": 21,
+            "title": "Lost In The Fire",
+            "weeks": 20
+        },
+        {
+            "artist": "DVBBS Featuring BRIDGE",
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 22,
+            "rank": 22,
+            "title": "GOMF",
+            "weeks": 3
+        },
+        {
+            "artist": "VASSY & Disco Fries",
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 23,
+            "rank": 23,
+            "title": "Concrete Heart",
+            "weeks": 6
+        },
+        {
+            "artist": "Hilary Roberts",
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 23,
+            "rank": 24,
+            "title": "Back To Life",
+            "weeks": 6
+        },
+        {
+            "artist": "The Chainsmokers Featuring Winona Oak",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 7,
+            "rank": 25,
+            "title": "Hope",
+            "weeks": 23
+        },
+        {
+            "artist": "Calvin Harris",
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 17,
+            "rank": 26,
+            "title": "I'm Not Alone 2019",
+            "weeks": 7
+        },
+        {
+            "artist": "Galantis Featuring OneRepublic",
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 17,
+            "rank": 27,
+            "title": "Bones",
+            "weeks": 16
+        },
+        {
+            "artist": "Gryffin And Aloe Blacc",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Hurt People",
+            "weeks": 1
+        },
+        {
+            "artist": "Kygo Featuring Valerie Broussard",
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 10,
+            "rank": 29,
+            "title": "Think About You",
+            "weeks": 14
+        },
+        {
+            "artist": "FISHER",
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 26,
+            "rank": 30,
+            "title": "You Little Beauty",
+            "weeks": 2
+        },
+        {
+            "artist": "David Guetta Featuring Raye",
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 27,
+            "rank": 31,
+            "title": "Stay (Don't Go Away)",
+            "weeks": 2
+        },
+        {
+            "artist": "Oliver Heldens Featuring Shungudzo",
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 18,
+            "rank": 32,
+            "title": "Fire In My Soul",
+            "weeks": 11
+        },
+        {
+            "artist": "Martin Garrix Featuring Bonn",
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 12,
+            "rank": 33,
+            "title": "No Sleep",
+            "weeks": 13
+        },
+        {
+            "artist": "James Blake Featuring Metro Boomin & Travis Scott",
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 10,
+            "rank": 34,
+            "title": "Mile High",
+            "weeks": 18
+        },
+        {
+            "artist": "Major Lazer Featuring Skip Marley",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 20,
+            "rank": 35,
+            "title": "Can't Take It From Me",
+            "weeks": 2
+        },
+        {
+            "artist": "Martin Jensen & James Arthur",
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 19,
+            "rank": 36,
+            "title": "Nobody",
+            "weeks": 10
+        },
+        {
+            "artist": "KC & The Sunshine Band & Tony Moran Featuring Nile Rodgers",
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 37,
+            "rank": 37,
+            "title": "Give Me Some More (Aye Yai Yai)",
+            "weeks": 3
+        },
+        {
+            "artist": "K-391 Featuring Alan Walker, Julie Bergan & SeungRi",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 28,
+            "rank": 38,
+            "title": "Ignite",
+            "weeks": 7
+        },
+        {
+            "artist": "KLAAS & Londonbeat",
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 39,
+            "rank": 39,
+            "title": "I've Been Thinking About You",
+            "weeks": 2
+        },
+        {
+            "artist": "Jack Back",
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 19,
+            "rank": 40,
+            "title": "Put Your Phone Down (Low)",
+            "weeks": 8
+        },
+        {
+            "artist": "Clean Bandit Featuring Ellie Goulding",
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 19,
+            "rank": 41,
+            "title": "Mama",
+            "weeks": 20
+        },
+        {
+            "artist": "Sean Finn & Corona",
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 34,
+            "rank": 42,
+            "title": "The Rhythm Of The Night",
+            "weeks": 5
+        },
+        {
+            "artist": "David Guetta, Brooks & Loote",
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 25,
+            "rank": 43,
+            "title": "Better When You're Gone",
+            "weeks": 15
+        },
+        {
+            "artist": "Dillon Francis Featuring T-Pain & That Girl Lay Lay",
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 19,
+            "rank": 44,
+            "title": "Catchy Song",
+            "weeks": 15
+        },
+        {
+            "artist": "SG Lewis & Clairo",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "Throwaway",
+            "weeks": 1
+        },
+        {
+            "artist": "Kue",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 46,
+            "rank": 46,
+            "title": "Going Home",
+            "weeks": 1
+        },
+        {
+            "artist": "Marshmello",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 10,
+            "rank": 47,
+            "title": "Check This Out",
+            "weeks": 16
+        },
+        {
+            "artist": "Jade Starling",
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 28,
+            "rank": 48,
+            "title": "Fired Up",
+            "weeks": 9
+        },
+        {
+            "artist": "Flying Lotus Featuring Anderson .Paak",
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 33,
+            "rank": 49,
+            "title": "More",
+            "weeks": 2
+        },
+        {
+            "artist": "ARTY",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 26,
+            "rank": 50,
+            "title": "Save Me Tonight",
+            "weeks": 15
+        }
+    ],
+    "name": "dance-electronic-songs",
+    "previousDate": "2019-05-25"
+}

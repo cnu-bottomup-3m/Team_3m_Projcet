@@ -1,0 +1,458 @@
+{
+    "_timeout": 25,
+    "date": "2019-06-08",
+    "entries": [
+        {
+            "artist": "VASSY & Disco Fries",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Concrete Heart",
+            "weeks": 10
+        },
+        {
+            "artist": "P!nk",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 2,
+            "rank": 2,
+            "title": "Walk Me Home",
+            "weeks": 8
+        },
+        {
+            "artist": "Dido",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Give You Up",
+            "weeks": 7
+        },
+        {
+            "artist": "Rob Thomas",
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 4,
+            "rank": 4,
+            "title": "One Less Day (Dying Young)",
+            "weeks": 8
+        },
+        {
+            "artist": "Calvin Harris",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 5,
+            "rank": 5,
+            "title": "I'm Not Alone 2019",
+            "weeks": 7
+        },
+        {
+            "artist": "Madonna & Maluma",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 6,
+            "rank": 6,
+            "title": "Medellin",
+            "weeks": 5
+        },
+        {
+            "artist": "Avicii Featuring Aloe Blacc",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 7,
+            "rank": 7,
+            "title": "SOS",
+            "weeks": 6
+        },
+        {
+            "artist": "FLETCHER",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "Undrunk",
+            "weeks": 7
+        },
+        {
+            "artist": "KLAAS & Londonbeat",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 9,
+            "rank": 9,
+            "title": "I've Been Thinking About You",
+            "weeks": 6
+        },
+        {
+            "artist": "Meduza Featuring GOODBOYS",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 1,
+            "rank": 10,
+            "title": "Piece Of Your Heart",
+            "weeks": 12
+        },
+        {
+            "artist": "Hilary Roberts",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 11,
+            "title": "Back To Life",
+            "weeks": 11
+        },
+        {
+            "artist": "Jack Back",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 1,
+            "rank": 12,
+            "title": "Put Your Phone Down (Low)",
+            "weeks": 12
+        },
+        {
+            "artist": "KC & The Sunshine Band & Tony Moran Featuring Nile Rodgers",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 11,
+            "rank": 13,
+            "title": "Give Me Some More (Aye Yai Yai)",
+            "weeks": 9
+        },
+        {
+            "artist": "Alan Walker, Sabrina Carpenter & Farruko",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 14,
+            "rank": 14,
+            "title": "On My Way",
+            "weeks": 5
+        },
+        {
+            "artist": "Kue",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 15,
+            "rank": 15,
+            "title": "Going Home",
+            "weeks": 6
+        },
+        {
+            "artist": "Tania",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 16,
+            "rank": 16,
+            "title": "Break Up To Make Up",
+            "weeks": 7
+        },
+        {
+            "artist": "Dimitri Vegas & Like Mike & Era Istrefi",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 17,
+            "rank": 17,
+            "title": "Selfish",
+            "weeks": 5
+        },
+        {
+            "artist": "Sean Finn & Corona",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 6,
+            "rank": 18,
+            "title": "The Rhythm Of The Night",
+            "weeks": 9
+        },
+        {
+            "artist": "Rilan",
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "Love Or Drugs",
+            "weeks": 6
+        },
+        {
+            "artist": "Ava Max",
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 20,
+            "rank": 20,
+            "title": "So Am I",
+            "weeks": 4
+        },
+        {
+            "artist": "HARBER x Lexy Panterra",
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 21,
+            "rank": 21,
+            "title": "More Than You",
+            "weeks": 5
+        },
+        {
+            "artist": "Oliver Heldens Featuring Shungudzo",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 1,
+            "rank": 22,
+            "title": "Fire In My Soul",
+            "weeks": 12
+        },
+        {
+            "artist": "First Ladies Of Disco",
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 23,
+            "rank": 23,
+            "title": "Don't Stop Me Now",
+            "weeks": 4
+        },
+        {
+            "artist": "Jade Starling",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 3,
+            "rank": 24,
+            "title": "Fired Up",
+            "weeks": 13
+        },
+        {
+            "artist": "Billie Eilish",
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 25,
+            "rank": 25,
+            "title": "Bad Guy",
+            "weeks": 5
+        },
+        {
+            "artist": "Colonel Abrams",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 20,
+            "rank": 26,
+            "title": "House Of Stone",
+            "weeks": 7
+        },
+        {
+            "artist": "Khalid",
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 27,
+            "rank": 27,
+            "title": "Talk",
+            "weeks": 3
+        },
+        {
+            "artist": "Jennifer Lopez & French Montana",
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Medicine",
+            "weeks": 2
+        },
+        {
+            "artist": "Lee Dagger & Courtney Harrell",
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 16,
+            "rank": 29,
+            "title": "So Lost Hearted",
+            "weeks": 11
+        },
+        {
+            "artist": "Velvet Code",
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 27,
+            "rank": 30,
+            "title": "Mary Offered Ladybugs and Love Yous",
+            "weeks": 6
+        },
+        {
+            "artist": "David Guetta Featuring Raye",
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 31,
+            "rank": 31,
+            "title": "Stay (Don't Go Away)",
+            "weeks": 2
+        },
+        {
+            "artist": "Jonas Brothers",
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 27,
+            "rank": 32,
+            "title": "Sucker",
+            "weeks": 7
+        },
+        {
+            "artist": "Young Bombs",
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 33,
+            "rank": 33,
+            "title": "Starry Eyes",
+            "weeks": 4
+        },
+        {
+            "artist": "Omar Veluz",
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 23,
+            "rank": 34,
+            "title": "Send Me An Angel",
+            "weeks": 8
+        },
+        {
+            "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 34,
+            "rank": 35,
+            "title": "Old Town Road",
+            "weeks": 4
+        },
+        {
+            "artist": "Shapeshifters Featuring Kimberly Davis",
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 36,
+            "rank": 36,
+            "title": "Life Is A Dancefloor",
+            "weeks": 2
+        },
+        {
+            "artist": "Ariana Grande",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 1,
+            "rank": 37,
+            "title": "Break Up With Your Girlfriend, I'm Bored",
+            "weeks": 13
+        },
+        {
+            "artist": "Marc Stout Featuring Jessica Sutta",
+            "isNew": false,
+            "lastPos": 48,
+            "peakPos": 38,
+            "rank": 38,
+            "title": "Our Song Comes On",
+            "weeks": 2
+        },
+        {
+            "artist": "Gorgon City & Kaskade Featuring Romeo",
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 39,
+            "rank": 39,
+            "title": "Go Slow",
+            "weeks": 2
+        },
+        {
+            "artist": "Low Steppa",
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 8,
+            "rank": 40,
+            "title": "You're My Life",
+            "weeks": 11
+        },
+        {
+            "artist": "Rod Carrillo & Terri B!",
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 41,
+            "rank": 41,
+            "title": "You Got What I Need",
+            "weeks": 2
+        },
+        {
+            "artist": "Marshmello Featuring CHVRCHES",
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 41,
+            "rank": 42,
+            "title": "Here With Me",
+            "weeks": 4
+        },
+        {
+            "artist": "Taylor Swift Featuring Brendon Urie",
+            "isNew": true,
+            "lastPos": 51,
+            "peakPos": 43,
+            "rank": 43,
+            "title": "ME!",
+            "weeks": 1
+        },
+        {
+            "artist": "Mabel",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 44,
+            "rank": 44,
+            "title": "Don't Call Me Up",
+            "weeks": 1
+        },
+        {
+            "artist": "Daddy Yankee & Katy Perry Featuring Snow",
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "Con Calma",
+            "weeks": 2
+        },
+        {
+            "artist": "Gattison",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 46,
+            "rank": 46,
+            "title": "Picture Perfect",
+            "weeks": 1
+        },
+        {
+            "artist": "Sam Smith & Normani",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 39,
+            "rank": 47,
+            "title": "Dancing With A Stranger",
+            "weeks": 8
+        },
+        {
+            "artist": "Mahkenna x Darko",
+            "isNew": true,
+            "lastPos": 52,
+            "peakPos": 48,
+            "rank": 48,
+            "title": "Ready For Love",
+            "weeks": 1
+        },
+        {
+            "artist": "Yinon Yahel & DJ Head",
+            "isNew": true,
+            "lastPos": 54,
+            "peakPos": 49,
+            "rank": 49,
+            "title": "The One",
+            "weeks": 1
+        },
+        {
+            "artist": "Lizzo",
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 44,
+            "rank": 50,
+            "title": "Juice",
+            "weeks": 12
+        }
+    ],
+    "name": "dance-club-play-songs",
+    "previousDate": "2019-06-01"
+}

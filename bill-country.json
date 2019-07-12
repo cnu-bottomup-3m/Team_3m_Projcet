@@ -1,0 +1,458 @@
+{
+    "_timeout": 25,
+    "date": "2019-06-08",
+    "entries": [
+        {
+            "artist": "Morgan Wallen",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Whiskey Glasses",
+            "weeks": 33
+        },
+        {
+            "artist": "Blake Shelton",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "God's Country",
+            "weeks": 10
+        },
+        {
+            "artist": "Kane Brown",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Good As You",
+            "weeks": 32
+        },
+        {
+            "artist": "Luke Combs",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 3,
+            "rank": 4,
+            "title": "Beer Never Broke My Heart",
+            "weeks": 4
+        },
+        {
+            "artist": "Lee Brice",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 5,
+            "rank": 5,
+            "title": "Rumor",
+            "weeks": 38
+        },
+        {
+            "artist": "Thomas Rhett",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 4,
+            "rank": 6,
+            "title": "Look What God Gave Her",
+            "weeks": 14
+        },
+        {
+            "artist": "Dan + Shay",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 1,
+            "rank": 7,
+            "title": "Speechless",
+            "weeks": 54
+        },
+        {
+            "artist": "Kelsea Ballerini",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "Miss Me More",
+            "weeks": 31
+        },
+        {
+            "artist": "Chase Rice",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 3,
+            "rank": 9,
+            "title": "Eyes On You",
+            "weeks": 41
+        },
+        {
+            "artist": "Maren Morris",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 9,
+            "rank": 10,
+            "title": "GIRL",
+            "weeks": 20
+        },
+        {
+            "artist": "Brett Eldredge",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 11,
+            "rank": 11,
+            "title": "Love Someone",
+            "weeks": 31
+        },
+        {
+            "artist": "Luke Bryan",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 12,
+            "rank": 12,
+            "title": "Knockin' Boots",
+            "weeks": 9
+        },
+        {
+            "artist": "Eric Church",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 13,
+            "rank": 13,
+            "title": "Some Of It",
+            "weeks": 18
+        },
+        {
+            "artist": "Florida Georgia Line",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 13,
+            "rank": 14,
+            "title": "Talk You Out Of It",
+            "weeks": 38
+        },
+        {
+            "artist": "Dan + Shay",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 15,
+            "rank": 15,
+            "title": "All To Myself",
+            "weeks": 21
+        },
+        {
+            "artist": "Cody Johnson",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 15,
+            "rank": 16,
+            "title": "On My Way To You",
+            "weeks": 42
+        },
+        {
+            "artist": "Jason Aldean",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 17,
+            "rank": 17,
+            "title": "Rearview Town",
+            "weeks": 21
+        },
+        {
+            "artist": "Chris Young",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 18,
+            "rank": 18,
+            "title": "Raised On Country",
+            "weeks": 17
+        },
+        {
+            "artist": "Justin Moore",
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "The Ones That Didn't Make It Back Home",
+            "weeks": 10
+        },
+        {
+            "artist": "George Strait",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 20,
+            "rank": 20,
+            "title": "Every Little Honky Tonk Bar",
+            "weeks": 16
+        },
+        {
+            "artist": "Chris Lane",
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 21,
+            "rank": 21,
+            "title": "I Don't Know About You",
+            "weeks": 34
+        },
+        {
+            "artist": "Lady Antebellum",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 14,
+            "rank": 22,
+            "title": "What If I Never Get Over You",
+            "weeks": 2
+        },
+        {
+            "artist": "HARDY",
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 23,
+            "rank": 23,
+            "title": "Rednecker",
+            "weeks": 15
+        },
+        {
+            "artist": "Brantley Gilbert + Lindsay Ell",
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 24,
+            "rank": 24,
+            "title": "What Happens In A Small Town",
+            "weeks": 24
+        },
+        {
+            "artist": "Maren Morris",
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 25,
+            "rank": 25,
+            "title": "The Bones",
+            "weeks": 13
+        },
+        {
+            "artist": "Tim McGraw",
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 26,
+            "rank": 26,
+            "title": "Thought About You",
+            "weeks": 8
+        },
+        {
+            "artist": "Cole Swindell",
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 27,
+            "rank": 27,
+            "title": "Love You Too Late",
+            "weeks": 14
+        },
+        {
+            "artist": "Russell Dickerson",
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Every Little Thing",
+            "weeks": 10
+        },
+        {
+            "artist": "Keith Urban",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 24,
+            "rank": 29,
+            "title": "We Were",
+            "weeks": 3
+        },
+        {
+            "artist": "Dierks Bentley",
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 28,
+            "rank": 30,
+            "title": "Living",
+            "weeks": 8
+        },
+        {
+            "artist": "Runaway June",
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 31,
+            "rank": 31,
+            "title": "Buy My Own Drinks",
+            "weeks": 15
+        },
+        {
+            "artist": "Tenille Townes",
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 29,
+            "rank": 32,
+            "title": "Somebody's Daughter",
+            "weeks": 13
+        },
+        {
+            "artist": "Thomas Rhett Featuring Kelsea Ballerini",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 33,
+            "rank": 33,
+            "title": "Center Point Road",
+            "weeks": 1
+        },
+        {
+            "artist": "Rascal Flatts",
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 31,
+            "rank": 34,
+            "title": "Back To Life",
+            "weeks": 21
+        },
+        {
+            "artist": "Carrie Underwood",
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 32,
+            "rank": 35,
+            "title": "Southbound",
+            "weeks": 3
+        },
+        {
+            "artist": "Carly Pearce",
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 36,
+            "rank": 36,
+            "title": "Closer To You",
+            "weeks": 19
+        },
+        {
+            "artist": "Kacey Musgraves",
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 17,
+            "rank": 37,
+            "title": "Rainbow",
+            "weeks": 16
+        },
+        {
+            "artist": "Chris Janson",
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 38,
+            "rank": 38,
+            "title": "Good Vibes",
+            "weeks": 5
+        },
+        {
+            "artist": "Old Dominion",
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 38,
+            "rank": 39,
+            "title": "One Man Band",
+            "weeks": 9
+        },
+        {
+            "artist": "Morgan Evans",
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 40,
+            "rank": 40,
+            "title": "Day Drunk",
+            "weeks": 6
+        },
+        {
+            "artist": "John Rich Featuring The Five",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 41,
+            "rank": 41,
+            "title": "Shut Up About Politics",
+            "weeks": 1
+        },
+        {
+            "artist": "Dylan Scott",
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 35,
+            "rank": 42,
+            "title": "Nothing To Do Town",
+            "weeks": 16
+        },
+        {
+            "artist": "Ryan Hurd",
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 40,
+            "rank": 43,
+            "title": "To A T",
+            "weeks": 16
+        },
+        {
+            "artist": "Dustin Lynch",
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 26,
+            "rank": 44,
+            "title": "Ridin' Roads",
+            "weeks": 12
+        },
+        {
+            "artist": "Matt Stell",
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 36,
+            "rank": 45,
+            "title": "Prayed For You",
+            "weeks": 20
+        },
+        {
+            "artist": "Mitchell Tenpenny",
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 42,
+            "rank": 46,
+            "title": "Alcohol You Later",
+            "weeks": 5
+        },
+        {
+            "artist": "Brothers Osborne",
+            "isNew": false,
+            "lastPos": 48,
+            "peakPos": 47,
+            "rank": 47,
+            "title": "I Don't Remember Me (Before You)",
+            "weeks": 3
+        },
+        {
+            "artist": "Gabby Barrett",
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 31,
+            "rank": 48,
+            "title": "I Hope",
+            "weeks": 12
+        },
+        {
+            "artist": "Jimmie Allen",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 49,
+            "rank": 49,
+            "title": "Make Me Want To",
+            "weeks": 2
+        },
+        {
+            "artist": "Lauren Alaina",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 49,
+            "rank": 50,
+            "title": "Ladies In The '90s",
+            "weeks": 2
+        }
+    ],
+    "name": "country-songs",
+    "previousDate": "2019-06-01"
+}

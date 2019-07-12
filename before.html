@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko_kr">
+
+<head>
+    <meta content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./style.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- 상단 메뉴 바에 해당하는 영역 -->
+    <div class="top-layout">
+        <!-- 로고를 나타내는 영역 -->
+        <div class="logo" onclick="window.location.reload()"> Mutube ! </div>
+
+        <div class="search-text-content">
+            <!-- 검색창을 나타내는 영역 -->
+            <input type="text" class="search-text-box">
+        </div>
+        <!-- 검색 버튼 -->
+        <button class="search-btn" onclick="">SEARCH</button>
+        <!-- 로그인 버튼 -->
+        <button class="login-btns" onclick="login_popup()">Login</button>
+    </div>
+
+    <div id="logmodalbox">
+        <!-- 로그인 버튼 클릭 시 나타나는 화면의 레이아웃 -->
+        <div class="login-modal" id="login-modal">
+            <form method="POST">
+                <input type="text" name="ID" id="idinput" placeholder="Enter your id"><br><br>
+                <input type="password" name="PW" id="password" placeholder="Enter your password"><br><br>
+                <input type="submit" name="submit" value="Log-in" id="logins" formaction="./submit.php">
+                <input type="submit" name="submit" value="Register" id="gaip" formaction="./register.php">
+            </form>
+        </div>
+    </div>
+
+    <!-- 로그인하지 않았을 시 보여지는 영역 -->
+    <div id="not-log-in">
+        <p id="not-log-text"> Please Sign in. </p>
+    </div>
+
+    <script src="login.js"></script>
+</body>
+
+</html>

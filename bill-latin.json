@@ -1,0 +1,458 @@
+{
+    "_timeout": 25,
+    "date": "2019-06-08",
+    "entries": [
+        {
+            "artist": "Daddy Yankee Featuring Snow",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Con Calma",
+            "weeks": 18
+        },
+        {
+            "artist": "Bad Bunny Featuring Drake",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "MIA",
+            "weeks": 34
+        },
+        {
+            "artist": "Lunay, Daddy Yankee & Bad Bunny",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Soltera",
+            "weeks": 12
+        },
+        {
+            "artist": "Pedro Capo X Farruko",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 3,
+            "rank": 4,
+            "title": "Calma",
+            "weeks": 34
+        },
+        {
+            "artist": "Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 3,
+            "rank": 5,
+            "title": "Baila Baila Baila",
+            "weeks": 21
+        },
+        {
+            "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 1,
+            "rank": 6,
+            "title": "Taki Taki",
+            "weeks": 35
+        },
+        {
+            "artist": "Nicky Jam X Ozuna",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 6,
+            "rank": 7,
+            "title": "Te Robare",
+            "weeks": 10
+        },
+        {
+            "artist": "Maluma",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "HP",
+            "weeks": 13
+        },
+        {
+            "artist": "Anuel AA & Romeo Santos",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 4,
+            "rank": 9,
+            "title": "Ella Quiere Beber",
+            "weeks": 45
+        },
+        {
+            "artist": "Anuel AA & Karol G",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 4,
+            "rank": 10,
+            "title": "Secreto",
+            "weeks": 20
+        },
+        {
+            "artist": "Wisin & Yandel & Romeo Santos",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 10,
+            "rank": 11,
+            "title": "Aullando",
+            "weeks": 14
+        },
+        {
+            "artist": "Sech Featuring Darell",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 12,
+            "rank": 12,
+            "title": "Otro Trago",
+            "weeks": 5
+        },
+        {
+            "artist": "Aventura",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 5,
+            "rank": 13,
+            "title": "Inmortal",
+            "weeks": 8
+        },
+        {
+            "artist": "ROSALIA, J. Balvin & El Guincho",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 14,
+            "rank": 14,
+            "title": "Con Altura",
+            "weeks": 9
+        },
+        {
+            "artist": "Sean Paul & J Balvin",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 11,
+            "rank": 15,
+            "title": "Contra La Pared",
+            "weeks": 11
+        },
+        {
+            "artist": "Jhay Cortez, J Balvin & Bad Bunny",
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 16,
+            "rank": 16,
+            "title": "No Me Conoce",
+            "weeks": 2
+        },
+        {
+            "artist": "Maluma",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 16,
+            "rank": 17,
+            "title": "11 PM",
+            "weeks": 2
+        },
+        {
+            "artist": "Anuel AA X Haze",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 11,
+            "rank": 18,
+            "title": "Amanece",
+            "weeks": 24
+        },
+        {
+            "artist": "Pitbull, Natti Natasha & Daddy Yankee",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "No Lo Trates",
+            "weeks": 5
+        },
+        {
+            "artist": "Sebastian Yatra & Reik",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 12,
+            "rank": 20,
+            "title": "Un Ano",
+            "weeks": 14
+        },
+        {
+            "artist": "Bad Bunny Featuring El Alfa",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 12,
+            "rank": 21,
+            "title": "La Romana",
+            "weeks": 23
+        },
+        {
+            "artist": "Myke Towers x Farruko",
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 22,
+            "rank": 22,
+            "title": "Si Se Da",
+            "weeks": 5
+        },
+        {
+            "artist": "Calibre 50",
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 23,
+            "rank": 23,
+            "title": "Simplemente Gracias",
+            "weeks": 3
+        },
+        {
+            "artist": "DJ Luian & Mambo Kingz X Darell X Anuel AA X Nicky Jam X Brytiago",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 17,
+            "rank": 24,
+            "title": "Verte Ir",
+            "weeks": 9
+        },
+        {
+            "artist": "Bad Bunny",
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 8,
+            "rank": 25,
+            "title": "Ni Bien Ni Mal",
+            "weeks": 23
+        },
+        {
+            "artist": "Banda Sinaloense MS de Sergio Lizarraga",
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 14,
+            "rank": 26,
+            "title": "Por Siempre Mi Amor",
+            "weeks": 18
+        },
+        {
+            "artist": "Adriel Favela Featuring Javier Rosas",
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 17,
+            "rank": 27,
+            "title": "La Escuela No Me Gusto",
+            "weeks": 15
+        },
+        {
+            "artist": "Dalex x Rafa Pabon",
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Pa Mi",
+            "weeks": 9
+        },
+        {
+            "artist": "Natti Natasha",
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 13,
+            "rank": 29,
+            "title": "Me Gusta",
+            "weeks": 17
+        },
+        {
+            "artist": "Christian Nodal",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 19,
+            "rank": 30,
+            "title": "Nada Nuevo",
+            "weeks": 12
+        },
+        {
+            "artist": "Berner Featuring T3r Elemento",
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 24,
+            "rank": 31,
+            "title": "El Chivo",
+            "weeks": 3
+        },
+        {
+            "artist": "Piso 21 & Micro TDH",
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 28,
+            "rank": 32,
+            "title": "Te Vi",
+            "weeks": 16
+        },
+        {
+            "artist": "Marc Anthony",
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 29,
+            "rank": 33,
+            "title": "Parecen Viernes",
+            "weeks": 6
+        },
+        {
+            "artist": "Manuel Turizo X Ozuna",
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 34,
+            "rank": 34,
+            "title": "Esclavo de Tus Besos",
+            "weeks": 11
+        },
+        {
+            "artist": "Karol G",
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 30,
+            "rank": 35,
+            "title": "Punto G",
+            "weeks": 8
+        },
+        {
+            "artist": "El Fantasma",
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 35,
+            "rank": 36,
+            "title": "Encantadora",
+            "weeks": 3
+        },
+        {
+            "artist": "Luis Fonsi, Sebastian Yatra & Nicky Jam",
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 31,
+            "rank": 37,
+            "title": "Date La Vuelta",
+            "weeks": 5
+        },
+        {
+            "artist": "Banda Los Recoditos",
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 38,
+            "rank": 38,
+            "title": "Perfecta",
+            "weeks": 6
+        },
+        {
+            "artist": "Guaynaa",
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 35,
+            "rank": 39,
+            "title": "Rebota",
+            "weeks": 11
+        },
+        {
+            "artist": "Karol G",
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 31,
+            "rank": 40,
+            "title": "Ocean",
+            "weeks": 4
+        },
+        {
+            "artist": "Silvestre Dangond & Maluma",
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 41,
+            "rank": 41,
+            "title": "Vivir Bailando",
+            "weeks": 6
+        },
+        {
+            "artist": "Nicky Jam X J. Balvin X Anuel AA X Arcangel",
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 39,
+            "rank": 42,
+            "title": "Ven y Hazlo Tu",
+            "weeks": 2
+        },
+        {
+            "artist": "Paulo Londra",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 43,
+            "rank": 43,
+            "title": "Tal Vez",
+            "weeks": 1
+        },
+        {
+            "artist": "Farruko, Anuel AA & Kendo Kaponi",
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 27,
+            "rank": 44,
+            "title": "Delincuente",
+            "weeks": 5
+        },
+        {
+            "artist": "La Arrolladora Banda el Limon de Rene Camacho",
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "Tiene Razon La Logica",
+            "weeks": 2
+        },
+        {
+            "artist": "Farruko & Bad Bunny",
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 25,
+            "rank": 46,
+            "title": "La Cartera",
+            "weeks": 5
+        },
+        {
+            "artist": "Becky G & Maluma",
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 13,
+            "rank": 47,
+            "title": "La Respuesta",
+            "weeks": 6
+        },
+        {
+            "artist": "La Adictiva Banda San Jose de Mesillas",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 48,
+            "rank": 48,
+            "title": "El Amor de Mi Vida",
+            "weeks": 1
+        },
+        {
+            "artist": "Anuel AA",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 49,
+            "rank": 49,
+            "title": "Por Ley",
+            "weeks": 1
+        },
+        {
+            "artist": "Zion & Lennox X Anuel AA X Haze",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 50,
+            "rank": 50,
+            "title": "Guayo",
+            "weeks": 1
+        }
+    ],
+    "name": "latin-songs",
+    "previousDate": "2019-06-01"
+}

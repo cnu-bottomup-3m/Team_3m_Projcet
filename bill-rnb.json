@@ -1,0 +1,233 @@
+{
+    "_timeout": 25,
+    "date": "2019-06-08",
+    "entries": [
+        {
+            "artist": "Khalid",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Talk",
+            "weeks": 16
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 2,
+            "rank": 2,
+            "title": "Earfquake",
+            "weeks": 2
+        },
+        {
+            "artist": "DJ Khaled Featuring SZA",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Just Us",
+            "weeks": 2
+        },
+        {
+            "artist": "DJ Khaled Featuring Meek Mill, J Balvin, Lil Baby & Jeremih",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 4,
+            "rank": 4,
+            "title": "You Stay",
+            "weeks": 2
+        },
+        {
+            "artist": "Beyonce",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 3,
+            "rank": 5,
+            "title": "Before I Let Go",
+            "weeks": 6
+        },
+        {
+            "artist": "Summer Walker X Drake",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 2,
+            "rank": 6,
+            "title": "Girls Need Love",
+            "weeks": 35
+        },
+        {
+            "artist": "Lizzo",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 7,
+            "rank": 7,
+            "title": "Juice",
+            "weeks": 7
+        },
+        {
+            "artist": "Jhene Aiko",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 3,
+            "rank": 8,
+            "title": "Triggered",
+            "weeks": 4
+        },
+        {
+            "artist": "Travis Scott",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 3,
+            "rank": 9,
+            "title": "Wake Up",
+            "weeks": 18
+        },
+        {
+            "artist": "DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean",
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 5,
+            "rank": 10,
+            "title": "Jealous",
+            "weeks": 2
+        },
+        {
+            "artist": "Chris Brown Featuring Nicki Minaj & G-Eazy",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 11,
+            "rank": 11,
+            "title": "Wobble Up",
+            "weeks": 6
+        },
+        {
+            "artist": "Ella Mai",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 3,
+            "rank": 12,
+            "title": "Shot Clock",
+            "weeks": 27
+        },
+        {
+            "artist": "Ty Dolla $ign Featuring J. Cole",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 13,
+            "rank": 13,
+            "title": "Purple Emoji",
+            "weeks": 1
+        },
+        {
+            "artist": "Luh Kel",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 7,
+            "rank": 14,
+            "title": "Wrong",
+            "weeks": 6
+        },
+        {
+            "artist": "Kiana Lede",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 9,
+            "rank": 15,
+            "title": "Ex",
+            "weeks": 17
+        },
+        {
+            "artist": "Khalid & Kane Brown",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 4,
+            "rank": 16,
+            "title": "Saturday Nights",
+            "weeks": 32
+        },
+        {
+            "artist": "Joji",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 7,
+            "rank": 17,
+            "title": "Slow Dancing In The Dark",
+            "weeks": 37
+        },
+        {
+            "artist": "H.E.R. Featuring Bryson Tiller",
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 6,
+            "rank": 18,
+            "title": "Could've Been",
+            "weeks": 43
+        },
+        {
+            "artist": "Chris Brown",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 3,
+            "rank": 19,
+            "title": "Undecided",
+            "weeks": 21
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 13,
+            "rank": 20,
+            "title": "Gone, Gone / Thank You",
+            "weeks": 2
+        },
+        {
+            "artist": "Kehlani Featuring Ty Dolla $ign",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 4,
+            "rank": 21,
+            "title": "Nights Like This",
+            "weeks": 20
+        },
+        {
+            "artist": "Jessie Reyez & JMR Or 6LACK",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 20,
+            "rank": 22,
+            "title": "Imported",
+            "weeks": 7
+        },
+        {
+            "artist": "SZA, The Weeknd & Travis Scott",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 5,
+            "rank": 23,
+            "title": "Power Is Power",
+            "weeks": 6
+        },
+        {
+            "artist": "Kirk Franklin",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 20,
+            "rank": 24,
+            "title": "Love Theory",
+            "weeks": 8
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 12,
+            "rank": 25,
+            "title": "Are We Still Friends?",
+            "weeks": 2
+        }
+    ],
+    "name": "r-and-b-songs",
+    "previousDate": "2019-06-01"
+}
