@@ -1,0 +1,806 @@
+{
+	"chart": "Melon",
+	"entries": [
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/94/820/10294820_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 1,
+			"videoId": "KwmMZLI876E",
+			"title": "BAND",
+			"imgalt": "BAND - 페이지 이동",
+			"artist": "창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/95/207/10295207_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 2,
+			"videoId": "67F4daX4U9U",
+			"title": "아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)",
+			"imgalt": "100년제전문대학 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/70/288/10270288_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 3,
+			"videoId": "uiDDJuHmbK8",
+			"title": "Kill This Love",
+			"imgalt": "KILL THIS LOVE - 페이지 이동",
+			"artist": "BLACKPINK"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/91/606/10291606_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 4,
+			"videoId": "NEUvIFej4z4",
+			"title": "대충 입고 나와",
+			"imgalt": "대충 입고 나와 - 페이지 이동",
+			"artist": "우디 (Woody)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/16/177/10316177_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 5,
+			"videoId": "4yltFLZMIao",
+			"title": "Y",
+			"imgalt": "Y - 페이지 이동",
+			"artist": "FANXYCHILD"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/01/186/10301186_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 6,
+			"videoId": "ZViFTZa-ocw",
+			"title": "비워 (Beer) (Prod. Way Ched)",
+			"imgalt": "Dingo X Ambition Musik - 페이지 이동",
+			"artist": "창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은, 릴러말즈 (Leellamarz), The Quiett"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 7,
+			"videoId": "H2HQWHKDREI",
+			"title": "봄날",
+			"imgalt": "YOU NEVER WALK ALONE - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/83/605/10283605_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 8,
+			"videoId": "fOeq_UJjonA",
+			"title": "돈 Call Me (Prod.BRLLNT)",
+			"imgalt": "Dingo X 염따 - 페이지 이동",
+			"artist": "염따"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 9,
+			"videoId": "iKe70q941vg",
+			"title": "IDOL",
+			"imgalt": "LOVE YOURSELF 結 `Answer` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/00/342/10300342_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 10,
+			"videoId": "PzSCnRCpM_c",
+			"title": "Uh-Oh",
+			"imgalt": "Uh-Oh - 페이지 이동",
+			"artist": "(여자)아이들"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/88/336/10288336_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 11,
+			"videoId": "vLsmYvyv45g",
+			"title": "교통정리 (Feat. 헤이즈)",
+			"imgalt": "교통정리 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/15/159/10315159_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 12,
+			"videoId": "piKQDxDJDRw",
+			"title": "Blue (Feat. Crush, SOLE)",
+			"imgalt": "Blue - 페이지 이동",
+			"artist": "다이나믹 듀오"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/221/10314221_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 13,
+			"videoId": "B6dwt1uuwf4",
+			"title": "파티피플 (Feat. 염따, Uneducated Kid)",
+			"imgalt": "갑분기 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 14,
+			"videoId": "XAkcIAqto10",
+			"title": "Make It Right",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/45/121/10245121_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 15,
+			"videoId": "MBSpoTozBdg",
+			"title": "이 노래가 클럽에서 나온다면",
+			"imgalt": "이 노래가 클럽에서 나온다면 - 페이지 이동",
+			"artist": "우디 (Woody)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 16,
+			"videoId": "d2F_J45hZGY",
+			"title": "Dionysus",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/67/223/10267223_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 17,
+			"videoId": "ckZor7HRU1E",
+			"title": "가라사대",
+			"imgalt": "The Movie Star - 페이지 이동",
+			"artist": "BewhY (비와이)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/458/10309458_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 18,
+			"videoId": "kANgU-Degpk",
+			"title": "What a life",
+			"imgalt": "What a life - The 1st Mini Album - 페이지 이동",
+			"artist": "세훈&찬열"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/458/10309458_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 19,
+			"videoId": "kANgU-Degpk",
+			"title": "있어 희미하게 (Feat. Gaeko)",
+			"imgalt": "What a life - The 1st Mini Album - 페이지 이동",
+			"artist": "세훈&찬열"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/41/866/10241866_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 20,
+			"videoId": "lhroC6X-sHg",
+			"title": "띵 (Prod. By 기리보이)",
+			"imgalt": "Dingo X Indigo Music - 페이지 이동",
+			"artist": "Jvcki Wai, 영비, Osshun Gum, 한요한"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/61/773/10261773_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 21,
+			"videoId": "1AR1ZkgbVV4",
+			"title": "눈 (Prod. 기리보이)",
+			"imgalt": "고등래퍼3 팀대항전 Part 1 - 페이지 이동",
+			"artist": "강현준 (Lil tachi), 호치키스 (김호진)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/59/609/10259609_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 22,
+			"videoId": "KZztQRgbaXA",
+			"title": "술이 달다 (Feat. Crush)",
+			"imgalt": "sleepless in __________ - 페이지 이동",
+			"artist": "에픽하이 (EPIK HIGH)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/21/424/10221424_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 23,
+			"videoId": "QMAVtAODCIg",
+			"title": "SOLO",
+			"imgalt": "SOLO - 페이지 이동",
+			"artist": "제니 (JENNIE)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/09/647/10209647_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 24,
+			"videoId": "GlxCLA2DE2g",
+			"title": "Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)",
+			"imgalt": "쇼미더머니 777 Episode 1 - 페이지 이동",
+			"artist": "pH-1, Kid Milli, 루피(Loopy)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/89/965/10189965_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 25,
+			"videoId": "yXdAGMxynw0",
+			"title": "flex (Prod. By 기리보이)",
+			"imgalt": "Dingo X Indigo Music - 페이지 이동",
+			"artist": "기리보이, Kid Milli, NO:EL, 스윙스"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/16/113/10316113_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 26,
+			"videoId": "pJ8-Iiqss4M",
+			"title": "슈퍼버스데이 (Prod. By 기리보이)",
+			"imgalt": "슈퍼버스데이 - 페이지 이동",
+			"artist": "기리보이, 수퍼비"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/76/415/10176415_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 27,
+			"videoId": "pYKPJl1PIIw",
+			"title": "뚜두뚜두 (DDU-DU DDU-DU)",
+			"imgalt": "SQUARE UP - 페이지 이동",
+			"artist": "BLACKPINK"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/458/10309458_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 28,
+			"videoId": "kANgU-Degpk",
+			"title": "부르면 돼",
+			"imgalt": "What a life - The 1st Mini Album - 페이지 이동",
+			"artist": "세훈&찬열"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/26/163/10226163_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 29,
+			"videoId": "H372U4KnPf4",
+			"title": "아낙네",
+			"imgalt": "XX - 페이지 이동",
+			"artist": "MINO (송민호)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 30,
+			"videoId": "v2AT7oSGZbQ",
+			"title": "HOME",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/75/102/10175102_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 31,
+			"videoId": "7hgAqbLvWoE",
+			"title": "Selfmade Orange (Feat. SUPERBEE)",
+			"imgalt": "닿는 순간 - 페이지 이동",
+			"artist": "창모 (CHANGMO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 32,
+			"videoId": "2dnglvE8BQA",
+			"title": "FAKE LOVE",
+			"imgalt": "LOVE YOURSELF 轉 `Tear` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 33,
+			"videoId": "KRDG8TO7jTA",
+			"title": "DNA",
+			"imgalt": "LOVE YOURSELF 承 `Her` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/252/10309252_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 34,
+			"videoId": "_l4AhE1dldA",
+			"title": "Fashion Hoarder (Feat. ZENE THE ZILLA)",
+			"imgalt": "Fashion Hoarder - 페이지 이동",
+			"artist": "빈지노 (Beenzino)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 35,
+			"videoId": "cTm43fVF1bM",
+			"title": "Stay Up (Feat. Beenzino)",
+			"imgalt": "City Lights - The 1st Mini Album - 페이지 이동",
+			"artist": "백현 (BAEKHYUN)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/16/479/10316479_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 36,
+			"videoId": "n6MYxWPERPc",
+			"title": "양손에 (Feat. 수퍼비)",
+			"imgalt": "양손에 - 페이지 이동",
+			"artist": "UNEDUCATED KID"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/78/566/10178566_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 37,
+			"videoId": "AcurmnUGjbo",
+			"title": "IndiGO",
+			"imgalt": "IM - 페이지 이동",
+			"artist": "저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 38,
+			"videoId": "ywwU5ka1fBs",
+			"title": "아름다워",
+			"imgalt": "돈 벌 시간 2 - 페이지 이동",
+			"artist": "창모 (CHANGMO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/32/945/10132945_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 39,
+			"videoId": "SGi8iUGeDd8",
+			"title": "사랑을 했다 (LOVE SCENARIO)",
+			"imgalt": "Return - 페이지 이동",
+			"artist": "iKON"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/93/389/10093389_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 40,
+			"videoId": "RsHq6Q-7NsU",
+			"title": "시차 (We Are) (Feat. 로꼬 & GRAY)",
+			"imgalt": "시차 (We Are) - 페이지 이동",
+			"artist": "우원재"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/16/714/10316714_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 41,
+			"videoId": "FTPEhTO2uyc",
+			"title": "미도+길이",
+			"imgalt": "미도+길이 - 페이지 이동",
+			"artist": "그냥노창"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/08/091/10308091_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 42,
+			"videoId": "LnTeAK45ROY",
+			"title": "골프왕 (Prod. By twlv)",
+			"imgalt": "영앤리치 X FLEXZONE - 페이지 이동",
+			"artist": "수퍼비, UNEDUCATED KID, twlv"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/65/005/10265005_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 43,
+			"videoId": "HG8PdwFoNQE",
+			"title": "Paranoid",
+			"imgalt": "ASH - 페이지 이동",
+			"artist": "ASH ISLAND"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/67/223/10267223_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 44,
+			"videoId": "9gp8xCBiQMc",
+			"title": "초월 (Feat. C JAMM)",
+			"imgalt": "The Movie Star - 페이지 이동",
+			"artist": "BewhY (비와이)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 45,
+			"videoId": "0pWz9xztrHE",
+			"title": "한여름밤의 꿀",
+			"imgalt": "San E, 레이나 Project Single `한여름밤의 꿀` - 페이지 이동",
+			"artist": "San E, 레이나 (Raina)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 46,
+			"videoId": "o_SYttJm0SE",
+			"title": "Answer : Love Myself",
+			"imgalt": "LOVE YOURSELF 結 `Answer` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/58/254/10158254_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 47,
+			"videoId": "cDq1vUwM21k",
+			"title": "붕붕 (Feat. 식케이) (Prod. GroovyRoom)",
+			"imgalt": "고등래퍼2 Final - 페이지 이동",
+			"artist": "김하온 (HAON)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/10/198/10210198_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 48,
+			"videoId": "YfQzz00Oc_M",
+			"title": "시간이 들겠지 (Feat. Colde)",
+			"imgalt": "시간이 들겠지 - 페이지 이동",
+			"artist": "로꼬"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/613/10273613_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 49,
+			"videoId": "kVKr_7AnBSo",
+			"title": "GO HIGH (Feat. 우원재, 창모 (CHANGMO), The Quiett) (Prod. CODE KUNST)",
+			"imgalt": "고등래퍼3 Final - 페이지 이동",
+			"artist": "이영지"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/873/10303873_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 50,
+			"videoId": "f4Vc5t95-wc",
+			"title": "Fake Rock Star (Feat. NO:EL)",
+			"imgalt": "외나무다리 - 페이지 이동",
+			"artist": "스윙스, 한요한"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/69/465/10269465_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 51,
+			"videoId": "8rx5NGugixs",
+			"title": "문제아 (Full Ver.)",
+			"imgalt": "Catch Me If You Can - 페이지 이동",
+			"artist": "수퍼비, UNEDUCATED KID"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 52,
+			"videoId": "CCsZVW1Y1GM",
+			"title": "전하지 못한 진심 (Feat. Steve Aoki)",
+			"imgalt": "LOVE YOURSELF 轉 `Tear` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 53,
+			"videoId": "bck8PTQGujo",
+			"title": "Betcha",
+			"imgalt": "City Lights - The 1st Mini Album - 페이지 이동",
+			"artist": "백현 (BAEKHYUN)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/12/362/10312362_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 54,
+			"videoId": "inI8mHGodAg",
+			"title": "Promise (Feat. MINO of WINNER)",
+			"imgalt": "Tony Lip - 페이지 이동",
+			"artist": "P.O (피오)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/53/720/10253720_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 55,
+			"videoId": "H0KoP6jJxuE",
+			"title": "IMJMWDP (Prod. By 기리보이)",
+			"imgalt": "IMJMWDP - 페이지 이동",
+			"artist": "기리보이, NO:EL, 블랙넛 (Black Nut), 영비, Osshun Gum, YUNHWAY, 저스디스 (JUSTHIS), Jvcki Wai, Kid Milli, 한요한, 스윙스"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/221/10314221_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 56,
+			"videoId": "JLhmux1y_kk",
+			"title": "밤에들어갈게 (Feat. 김승민)",
+			"imgalt": "갑분기 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 57,
+			"videoId": "3O0qMREqA0I",
+			"title": "I`m Fine",
+			"imgalt": "LOVE YOURSELF 結 `Answer` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 58,
+			"videoId": "dedBblEWmes",
+			"title": "어땠을까 (Feat. 박정현)",
+			"imgalt": "싸이6甲 Part.1 - 페이지 이동",
+			"artist": "싸이 (PSY)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 59,
+			"videoId": "zSMOO6SA7Uw",
+			"title": "Euphoria",
+			"imgalt": "LOVE YOURSELF 結 `Answer` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/300/10314300_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 60,
+			"videoId": "IAtQk2kum4o",
+			"title": "오늘밤엔 (Feat. Ugly Duck)",
+			"imgalt": "Baddest Nice Guys - 페이지 이동",
+			"artist": "박재범, 기린"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/221/10314221_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 61,
+			"videoId": "iUvAzqWUZ5k",
+			"title": "party is over",
+			"imgalt": "갑분기 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/18/777/10218777_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 62,
+			"videoId": "njJt2uSJi9Q",
+			"title": "수퍼비와 (Feat. BewhY) (Prod. BewhY)",
+			"imgalt": "쇼미더머니 777 Semi Final - 페이지 이동",
+			"artist": "수퍼비"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/29/387/10229387_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 63,
+			"videoId": "muK1x5chEf4",
+			"title": "행복",
+			"imgalt": "행복 - 페이지 이동",
+			"artist": "오반"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 64,
+			"videoId": "FeT0eMlwR7s",
+			"title": "피 땀 눈물",
+			"imgalt": "WINGS - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/88/360/2688360_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 65,
+			"videoId": "oWE4Vk9oIDY",
+			"title": "And July (Feat. DEAN, DJ Friz)",
+			"imgalt": "And July - 페이지 이동",
+			"artist": "헤이즈 (Heize)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/95/207/10295207_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 66,
+			"videoId": "wOBN4lyGpY4",
+			"title": "도쿄 (Feat. 유라 (youra))",
+			"imgalt": "100년제전문대학 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/23/457/10023457_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 67,
+			"videoId": "1e-xZ0JOLgY",
+			"title": "아이야 (Feat. Beenzino)",
+			"imgalt": "돈 벌 시간 3 - 페이지 이동",
+			"artist": "창모 (CHANGMO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/44/998/10244998_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 68,
+			"videoId": "F_xLBcl0Dvw",
+			"title": "Heu ! (Full Ver.)",
+			"imgalt": "Heu ! (Full Ver.) - 페이지 이동",
+			"artist": "수퍼비"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/299/10314299_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 69,
+			"videoId": "vSyd_Ny5gIk",
+			"title": "8282 (Feat. 수퍼비, UNEDUCATED KID)",
+			"imgalt": "8282 (Feat. 수퍼비, UNEDUCATED KID) - 페이지 이동",
+			"artist": "twlv"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 70,
+			"videoId": "jHr7LL7vgN0",
+			"title": "Intro : Persona",
+			"imgalt": "MAP OF THE SOUL : PERSONA - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 71,
+			"videoId": "gXZUauFMmMw",
+			"title": "마에스트로 (Maestro)",
+			"imgalt": "돈 벌 시간 2 - 페이지 이동",
+			"artist": "창모 (CHANGMO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/221/10314221_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 72,
+			"videoId": "QvcOeVDFv_U",
+			"title": "꺼져",
+			"imgalt": "갑분기 - 페이지 이동",
+			"artist": "기리보이"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/12/425/10312425_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 73,
+			"videoId": "mDlYOdFmSCM",
+			"title": "WATER (Feat. Woodie Gochild, pH-1, 김하온 (HAON), Jay Park) (Prod. GooseBumps)",
+			"imgalt": "WATER - 페이지 이동",
+			"artist": "식케이 (Sik-K)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/96/204/10096204_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 74,
+			"videoId": "CtcHPuIDkIE",
+			"title": "iffy (Prod. GroovyRoom)",
+			"imgalt": "Dingo X H1GHR MUSIC - 페이지 이동",
+			"artist": "식케이 (Sik-K), pH-1, 박재범"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/14/285/10214285_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 75,
+			"videoId": "x7x0Agd5tjA",
+			"title": "Save (Feat. 팔로알토)(Prod. 코드 쿤스트)",
+			"imgalt": "쇼미더머니 777 Episode 3 - 페이지 이동",
+			"artist": "루피(Loopy)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/74/454/10074454_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 76,
+			"videoId": "vynOvB48faM",
+			"title": "널 너무 모르고",
+			"imgalt": "/// (너 먹구름 비) - 페이지 이동",
+			"artist": "헤이즈 (Heize)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/46/528/10146528_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 77,
+			"videoId": "vwadwU2azdM",
+			"title": "WHY DO FUCKBOIS HANG OUT ON THE NET",
+			"imgalt": "AI, THE PLAYLIST - 페이지 이동",
+			"artist": "Kid Milli"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/18/005/10118005_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 78,
+			"videoId": "czftJ7E7wa4",
+			"title": "Martini Blue",
+			"imgalt": "Her - 페이지 이동",
+			"artist": "DPR LIVE"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/17/789/10117789_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 79,
+			"videoId": "P07XG1P0ums",
+			"title": "Downtown Baby",
+			"imgalt": "Downtown Baby - 페이지 이동",
+			"artist": "블루(BLOO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/09/647/10209647_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 80,
+			"videoId": "q3Yff777MnM",
+			"title": "사임사임 (Feat. CHANGMO)",
+			"imgalt": "쇼미더머니 777 Episode 1 - 페이지 이동",
+			"artist": "쿠기 (Coogie), 수퍼비, D.Ark"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 81,
+			"videoId": "DP2w36k5H0U",
+			"title": "죽일 놈 (Guilty)",
+			"imgalt": "Band Of Dynamic Brothers - 페이지 이동",
+			"artist": "다이나믹 듀오"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/59/672/10259672_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 82,
+			"videoId": "n-H2R-hKyiQ",
+			"title": "호불호 (Feat. 기리보이) (Prod. By GRAY)",
+			"imgalt": "호불호 - 페이지 이동",
+			"artist": "우원재"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 83,
+			"videoId": "HbuiVJo0w1k",
+			"title": "헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",
+			"imgalt": "Hexagonal - 페이지 이동",
+			"artist": "리쌍"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 84,
+			"videoId": "eEx9Y8PE-Fc",
+			"title": "돌아오지마 (Feat. 용준형 Of 비스트)",
+			"imgalt": "돌아오지마 - 페이지 이동",
+			"artist": "헤이즈 (Heize)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/40/500/10240500_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 85,
+			"videoId": "C72lPb-34Xc",
+			"title": "zoom",
+			"imgalt": "살아숨셔 2 - 페이지 이동",
+			"artist": "염따"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/11/740/10311740_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 86,
+			"videoId": "UBKqLIGFDu0",
+			"title": "Gravity",
+			"imgalt": "Gravity - 페이지 이동",
+			"artist": "DPR LIVE, DPR CREAM"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 87,
+			"videoId": "RktRJRXEtBg",
+			"title": "자니 (Feat. Dynamic Duo)",
+			"imgalt": "자니 - 페이지 이동",
+			"artist": "프라이머리"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/09/808/10309808_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 88,
+			"videoId": "0b3LaGNQShI",
+			"title": "BOOL (Feat. Beenzino) (Prod. Mokyo)",
+			"imgalt": "Summer Episodes - 페이지 이동",
+			"artist": "pH-1"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 89,
+			"videoId": "BJKosudCffE",
+			"title": "Boys And Girls (Feat. Babylon)",
+			"imgalt": "Boys and Girls - 페이지 이동",
+			"artist": "지코 (ZICO)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/08/671/10308671_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 90,
+			"videoId": "tGQG5Ic3rk0",
+			"title": "에어컨 (Feat. 릴타치) (Prod. 기리보이)",
+			"imgalt": "Dingo X 호치키스 - 페이지 이동",
+			"artist": "호치키스 (김호진)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 91,
+			"videoId": "oaPyiFdX1CY",
+			"title": "Day Day (Feat. 박재범) (Prod. by GRAY)",
+			"imgalt": "쇼미더머니 5 Episode 4 - 페이지 이동",
+			"artist": "BewhY (비와이)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/92/832/10292832_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 92,
+			"videoId": "dTwVTT6Cmjc",
+			"title": "불면 (不眠)",
+			"imgalt": "불면 (不眠) - 페이지 이동",
+			"artist": "오반, VAN.C"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/99/274/10099274_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 93,
+			"videoId": "djvayJ3WE-Q",
+			"title": "뜨거워 완전 Totally Hot (Feat. 던밀스)",
+			"imgalt": "돈색 머리 - 페이지 이동",
+			"artist": "ZENE THE ZILLA"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 94,
+			"videoId": "NIPtyAKxlRs",
+			"title": "우산 (Feat. 윤하)",
+			"imgalt": "Pieces, Part One - 페이지 이동",
+			"artist": "에픽하이 (EPIK HIGH)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/34/788/2134788_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 95,
+			"videoId": "u4-ossqoTi0",
+			"title": "Aqua Man",
+			"imgalt": "2 4 : 2 6 - 페이지 이동",
+			"artist": "빈지노 (Beenzino)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/20/014/2320014_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 96,
+			"videoId": "gx_mg-1WhWw",
+			"title": "몸매 (MOMMAE) (Feat. Ugly Duck)",
+			"imgalt": "몸매 (MOMMAE) - 페이지 이동",
+			"artist": "박재범"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 97,
+			"videoId": "zDyXwcWM3m0",
+			"title": "뜨거운 안녕 (Feat. 성시경)",
+			"imgalt": "싸이6甲 Part.1 - 페이지 이동",
+			"artist": "싸이 (PSY)"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 98,
+			"videoId": "_LIsM5ZZnW8",
+			"title": "Anpanman",
+			"imgalt": "LOVE YOURSELF 轉 `Tear` - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/023/16/261/2316261_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 99,
+			"videoId": "1wccNQKiCWs",
+			"title": "I NEED U",
+			"imgalt": "화양연화 pt.1 - 페이지 이동",
+			"artist": "방탄소년단"
+		},
+		{
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/15/655/10315655_500.jpg/melon/resize/120/quality/80/optimize",
+			"rank": 100,
+			"videoId": "jFzgGIZmaYk",
+			"title": "해먹 (feat. BIBI)",
+			"imgalt": "해먹 - 페이지 이동",
+			"artist": "크루셜스타 (Crucial Star)"
+		}
+	],
+	"date": "2019-08-10 21:21:59.516226"
+}
