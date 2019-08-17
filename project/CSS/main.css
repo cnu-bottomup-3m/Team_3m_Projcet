@@ -28,7 +28,7 @@
   display: -webkit-inline-box;
   overflow: auto;
   width: 75%;
-  height: 505px;
+  height: 480px;
   padding: 3px;
   margin-bottom: 20px;
   float: unset;
@@ -51,7 +51,7 @@
 #jb-footer {
   left: 0px;
   position: fixed;
-  top: 82%;
+  top: 83.5%;
   width: 100%;
   clear: both;
   padding: 0px;
@@ -69,7 +69,6 @@
   padding: 9px;
   border: 2px solid black;
 }
-
 
 td {
 
@@ -591,6 +590,10 @@ p {
   font-size: 28px;
   margin-left: 11px;
   margin-bottom: 0px;
+ /* margin-top: 53px;*/
+}
+#popular-chart{
+  margin-top:50px;
 }
 
 #sbtn {
@@ -751,18 +754,18 @@ h2 {
   }
 
   #jb-footer {
-    top: 83%;
+    top: 83.5%;
   }
 
   #youtube-side {
     width: 100%;
-    height: 473px;
+    height: 453px;
     float: right;
     /* clear: both; */
     padding: 20px;
     border: 2px solid black;
   }
-
+  
   .info {
     width: 84%;
     display: block;
@@ -777,7 +780,7 @@ h2 {
     display: -webkit-inline-box;
     overflow: auto;
     width: 100%;
-    height: 421px;
+    height: 350px;
     padding: 3px;
     margin-bottom: 20px;
     float: unset;
@@ -883,14 +886,12 @@ h2 {
   display: -webkit-box;
   margin-bottom: 14px;
 }
-
 #user-playlist {
   padding-left: 0px;
-  overflow: auto;
-  height: 405px;
+  overflow:auto;
+  height:365px;
+
 }
-
-
 
 .remove {
   width: 32px;
@@ -1030,4 +1031,8 @@ a {
   padding: 0px;
   width: 33px;
   height: 28px;
+}
+#nav_top{
+  display: flex;
+  float: right;
 }

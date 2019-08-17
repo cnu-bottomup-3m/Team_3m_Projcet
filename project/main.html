@@ -36,40 +36,35 @@
 
     <!-- 0803로그아웃 기능 구현을 위해 php숏코드 작성 서버쪽도 php.ini/httpd.conf 파일 수정해야함 -->
 
-    <nav class="nav navbar navbar-expand-lg navbar-dark">
+    <nav >
         <div class="container">
             <h1 onclick="window.location.reload()">SoundsHub</h1>
-            <div class='clcik_bu'>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                        <img title="듣고싶은 노래를 검색을 통해 추가할 수 있습니다." onclick="modal(this.id)" class="search-btn" id="sbtn"
-                            src="/img/search.png">
-                        <span class="nav-link" id='se' class="lod">검색</span>
-                        <span class="sr-only">(current)</span>
-                    </li>
-                    <li class="nav-item">
-                        <img type="submit" id="log" class="logout-btns" src="/img/logout.png" onclick="logout_ing()">
-                        <span class="nav-link" id='ou' class="lod">로그아웃</span>
-                    </li>
-                    <li class="nav-item">
-                        <img id="mypage" class="mypage-btns" src="/img/person_white.png" onclick="my_page()">
-                        <span class="nav-link" id="myp" class="lod">내 정보</span>
-                    </li>
-                </ul>
-            </div>
+
         </div>
     </nav>
+
+    
+        <div id="nav_top">
+            <div>
+                <img title="듣고싶은 노래를 검색을 통해 추가할 수 있습니다." onclick="modal(this.id)" class="search-btn" id="sbtn"
+                    src="/img/search.png">
+                <span class="nav-link" id='se' class="lod">검색</span>
+            </div>
+            <div>
+                <img type="submit" id="log" class="logout-btns" src="/img/logout.png" onclick="logout_ing()">
+                <span class="nav-link" id='ou' class="lod">로그아웃</span>
+            </div>
+            <div>
+                <img id="mypage" class="mypage-btns" src="/img/person_white.png" onclick="my_page()">
+                <span class="nav-link" id="myp" class="lod">내 정보</span>
+            </div>
+        </div>
+ 
 
 
     <div id="jb-container">
 
-        <p>인기차트</p>
+        <p id="popular-chart">인기차트</p>
         <div id="list">
             <!-- 0730 class 추가  L_bu R_bu  추가-->
             <img id="L_bu" onclick="L_nextbut()" src="/img/next1.png">
