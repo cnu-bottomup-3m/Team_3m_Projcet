@@ -45,5 +45,5 @@ if __name__ == "__main__":
             {"artist": str(song[e]), "title": str(title[e]), "rank": e + 1, "imgsrc": str(image[e]),
              "imgalt": str(imagea[e])})
 
-    with open('/json/melon_day_ab_pop.json', 'w', encoding="utf-8") as make_file:
+    with open('/var/www/html/json/melon_day_ab_pop.json', 'w', encoding="utf-8") as make_file:
         json.dump(file_data, make_file, ensure_ascii=False, indent="\t")

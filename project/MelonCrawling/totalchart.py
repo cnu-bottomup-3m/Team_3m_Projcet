@@ -5,44 +5,44 @@ from collections import OrderedDict
 file_data = OrderedDict()
 file_data['entries'] = []
 
-with open("/json/melon_day_ab_pop.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_pop.json", encoding="utf-8") as json_file:
     apop_json = json.load(json_file)
-with open("/json/melon_day_ab_rap.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rap.json", encoding="utf-8") as json_file:
     arap_json = json.load(json_file)
 
-with open("/json/melon_day_ab_rock.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rock.json", encoding="utf-8") as json_file:
     arock_json = json.load(json_file)
 
-with open("/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
     arnb_json = json.load(json_file)
-with open("/json/melon_day_ab_folk.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_folk.json", encoding="utf-8") as json_file:
     afolk_json = json.load(json_file)
 
-with open("/json/melon_day_ab_elec.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_elec.json", encoding="utf-8") as json_file:
     aelec_json = json.load(json_file)
 
-with open("/json/melon_top_100.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_top_100.json", encoding="utf-8") as json_file:
     top100_json = json.load(json_file)
 
-with open("/json/melon_day_ballad.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ballad.json", encoding="utf-8") as json_file:
     ballad_json = json.load(json_file)
 
-with open("/json/melon_day_dance.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_dance.json", encoding="utf-8") as json_file:
     dance_json = json.load(json_file)
 
-with open("/json/melon_day_hiphop.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_hiphop.json", encoding="utf-8") as json_file:
     hiphop_json = json.load(json_file)
 
-with open("/json/melon_day_rock.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_rock.json", encoding="utf-8") as json_file:
     rock_json = json.load(json_file)
 
-with open("/json/melon_day_rnb.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_rnb.json", encoding="utf-8") as json_file:
     rnb_json = json.load(json_file)
 
-with open("/json/melon_day_folk.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_folk.json", encoding="utf-8") as json_file:
     folk_json = json.load(json_file)
 
-with open("/json/melon_day_inde.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_inde.json", encoding="utf-8") as json_file:
     inde_json = json.load(json_file)
 
 for i in range(100):
@@ -74,5 +74,5 @@ for i in range(100):
 for i in range(100):
     file_data['entries'].append(inde_json['entries'][i])
 
-with open('/json/total_charts.json', 'w', encoding="utf-8") as make_file:
+with open('/var/www/html/json/total_charts.json', 'w', encoding="utf-8") as make_file:
     json.dump(file_data, make_file, ensure_ascii=False, indent="\t")

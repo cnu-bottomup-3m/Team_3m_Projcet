@@ -15,8 +15,9 @@ https://templatemo.com/tm-532-next-level
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://soundshub.cf">
 
-    <link rel="stylesheet" href="BootStrap/bootstrap.min.css"/>
-    <link rel="stylesheet" href="CSS/gallery.css" />
+    <link rel="stylesheet" href="./mobile/css/bootstrap.min.css" />
+ 
+    <link rel="stylesheet" href="./mobile/gallery.css" />
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -24,6 +25,16 @@ https://templatemo.com/tm-532-next-level
 </head>
 
 <body>
+
+        <?php
+        session_start();    
+        if(!isset($_SESSION['sess_userid'])){
+            echo "<script> alert('로그인이 필요한 서비스입니다.');</script>";
+            echo "<meta http-equiv='refresh' content='0;url=/index.html'>";
+            exit;
+        }
+        ?>
+
         <nav class="nav navbar navbar-expand-lg navbar-dark" id="nav_">
                 <div class="container">
                     <h1 >SoundsHub</h1>
@@ -83,7 +94,12 @@ https://templatemo.com/tm-532-next-level
                   </div>
                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="">
-                            <div class="row" style="margin-top: 40px">
+                            <div id="multi-area1">
+                                    <button class="btn btn-primary" id="bu_L" style="background-color: royalblue;">이전 차트</button>
+                                    <button class="btn btn-primary" id="bu_R" id="li1" style="background-color: royalblue;">다음 차트</button>
+                            
+                                    </div>
+                            <div class="row">
                                     <div class="liist_ list1 m_list1 mobile1" id="a1_" onclick="show_melon_apop_chart(this.id)" id="play">해외 팝</div>
                                     <div class="liist_ list1 m_list1 mobile1" id="a2_" onclick="show_melon_arap_chart(this.id)" id="play">해외 랩/힙합</div>
                                     <div class="liist_ list1 m_list1 mobile1" id="a3_" onclick="show_melon_arock_chart(this.id)" id="play">해외 록/메탈</div>
@@ -102,8 +118,6 @@ https://templatemo.com/tm-532-next-level
                                     <div class="liist_ list2 m_list4 mobile3" id="a13_" onclick="show_melon_rock_chart(this.id)" id="play">록/메탈</div>
                                     <div class="liist_ list2 m_list4 mobile3" id="a14_" onclick="show_melon_folk_chart(this.id)" id="play">포크/블루스</div>
                                     <div id="bu_LR">
-                                    <img id="bu_L"  src="img/next1.png">
-                                    <img id="bu_R" id="li1" src="img/next.png">
                                 </div>
                                 </div>
                     </div>
@@ -118,9 +132,9 @@ https://templatemo.com/tm-532-next-level
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
                             <div id="multi-area">
-                                    <button class="btn btn-primary" id=multi-select value="MultiOn">다중 선택</button>
-                                    <button class="btn btn-primary" id=total-select value="totalOn">전체선택</button>
-                                    <button class="btn btn-primary" id=multi-add>담기</button>
+                                    <button class="btn btn-primary" id=multi-select value="MultiOn" style="background-color: royalblue;">여러개 선택</button>
+                                    <button class="btn btn-primary" id=total-select value="totalOn" style="background-color: royalblue;">전체선택</button>
+                                    <button class="btn btn-primary" id=multi-add style="background-color: royalblue;">담기</button>
                                     </div>
                             <div id="jb-content">
                                     <section class="list-layout">
@@ -169,8 +183,8 @@ https://templatemo.com/tm-532-next-level
                             <section id="youtube-side">
                                     <h2>재생목록</h2>
               
-                                    <button class="btn btn-primary" title="여기에서 나만의 재생목록을 관리할 수 있습니다." id="myplaylist_btn" onclick="myplaylist_on()">내
-                                        재생목록</button><button class="btn btn-primary" id="deleteAll_btn" onclick="deleteAll()">전체 삭제</button>
+                                    <button style="background-color: royalblue;" class="btn btn-primary" title="여기에서 나만의 재생목록을 관리할 수 있습니다." id="myplaylist_btn">내
+                                        재생목록</button><button style="background-color: royalblue;" class="btn btn-primary" id="deleteAll_btn" onclick="deleteAll()">전체 삭제</button>
                                     <br><br>
                                     <ul id="user-playlist">
                                     </ul>
@@ -214,10 +228,9 @@ https://templatemo.com/tm-532-next-level
                 <div class="time">
                     <span class=time-bar></span>
                 </div>
-                <div b_c_b>
-                    <img class="control button_play" onclick="L_bu()" src="img/arrow1.png" style="margin-left: 55px;">
-                    <img class="button_play" id="control123"  onclick="playVideo()" src="img/play.png">
-                    <img class="button_play" onclick="pauseVideo()" src="img/pause.png">
+                <div b_c_b style="text-align: -webkit-center">
+                    <img class="control button_play" onclick="L_bu()" src="img/arrow1.png">
+                    <img class="button_play" id="control123" src="img/play.png">
                     <img class="control button_play" onclick="R_bu()" src="img/arrow2.png">
                     <!-- <input id="ver1" type="range" orient="vertical" value="50" min="0" max="100"
                     onChange="soundControl(this.value);" /> -->
@@ -243,37 +256,50 @@ https://templatemo.com/tm-532-next-level
             <!-- 내 재생목록 모달박스 0811 -->
             <div id="myplaylistmodal">
                 <div id="myplaylistmodalcontent">
-                    <h2>내 재생목록</h2>
-                    <br>
+                    <h2 style="
+                        position: relative;
+                        top: 19px;
+                        ">내 재생목록</h2>                    <br>
                     <div class="playlistsaving">
                         <span style="background-color: transparent;">제목</span>
                         <input id="listsavetitleinput" type="text" size="35">
                         <button id="listsave_btn" onclick="savethislist()" title="현재 재생목록에 담긴 곡들을 저장합니다.">저장</button>
                     </div>
-    
+
                     <ul id="listofmyplaylist">
-    
-    
+                        <?php
+                            session_start();
+                            $connect = mysqli_connect('localhost', 'root', 'akejvkej123', 'first');
+                            mysqli_set_charset($connect, 'utf8');
+                            
+                            if (mysqli_connect_errno()) {
+                                echo "Failed to connect MySQL: " . mysqli_connect_error();
+                            }
+                        $checkTable = mysqli_query($connect, "SHOW TABLES LIKE '" . $_SESSION['sess_userid'] . "%'");
+                        
+                        while($row_go = mysqli_fetch_row($checkTable)){
+                            $tablename = explode('_', $row_go[0]);
+                            echo "<li class='playli'><span class='mypl' onclick='get_thisplaylist(event)'>".$tablename[1]."</span><button class='mypldltbtn btn btn-primary' onclick='playlist_delete(event)'>X</button></li>";
+                        }
+                        ?>
+
+
                     </ul>
 
                 </div>
             </div>
     
-        </div>
-    
-        <script type="text/javascript" src="JavaScript/Mobile/m_front.js"></script>
-        <script type="text/javascript" src="JavaScript/Mobile/gallery.js"></script>
-            <script type="text/javascript" src="./play.js"></script>
-            <script type="text/javascript" src="JavaScript/Mobile/m_search.js"></script>
+        <script type="text/javascript" src="./mobile/m_front.js"></script>
+            <script type="text/javascript" src="./mobile/play.js"></script>
+            <script type="text/javascript" src="./mobile/m_search.js"></script>
 
             <!-- Bootstrap core JavaScript -->
-            <script src="vendor/jquery/jquery.min.js"></script>
-            <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-            <script src="Library/jquery.ui.touch.js"
+            <script src="./mobile/vendor/jquery/jquery.min.js"></script>
+            <script src="./mobile/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        
+            <script src="./mobile/js/jquery.ui.touch.js"></script>
             <script>
             </script>
-
-            
         </div>
     </div>
 </body>

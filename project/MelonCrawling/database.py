@@ -6,7 +6,7 @@ RANK = 100
 con = pymysql.connect(host="localhost", user="root", password="akejvkej123", db="first", charset="utf8")
 cur = con.cursor()
 
-with open("/json/melon_top_100.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_top_100.json", encoding="utf-8") as json_file:
     top100_json = json.load(json_file)
 
 sql = "delete from melon_top_100_chart"
@@ -18,7 +18,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_ab_pop.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_pop.json", encoding="utf-8") as json_file:
     apop_json = json.load(json_file)
 
 sql = "delete from melon_day_ab_pop_chart"
@@ -31,7 +31,7 @@ for i in range(RANK):
     apop_json['entries'][i]['imgalt'], apop_json['entries'][i]['videoId']))
     con.commit()
 
-with open("/json/melon_day_ab_rap.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rap.json", encoding="utf-8") as json_file:
     arap_json = json.load(json_file)
 
 sql = "delete from melon_day_ab_rap_chart"
@@ -45,7 +45,7 @@ for i in range(RANK):
 
 
 
-with open("/json/melon_day_ab_rock.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rock.json", encoding="utf-8") as json_file:
     arock_json = json.load(json_file)
 
 
@@ -58,7 +58,7 @@ for i in range(RANK):
     cur.execute(sql, (arock_json['entries'][i]['artist'], arock_json['entries'][i]['title'], str(i + 1),arock_json['entries'][i]['imgsrc'], arock_json['entries'][i]['imgalt'],arock_json['entries'][i]['videoId']))
     con.commit()
 
-with open("/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
     arnb_json = json.load(json_file)
 
 sql = "delete from melon_day_ab_rnb_chart"
@@ -69,7 +69,7 @@ for i in range(RANK):
     cur.execute(sql, (arnb_json['entries'][i]['artist'], arnb_json['entries'][i]['title'], str(i + 1),arnb_json['entries'][i]['imgsrc'], arnb_json['entries'][i]['imgalt'],arnb_json['entries'][i]['videoId']))
     con.commit()
 
-with open("/json/melon_day_ab_elec.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_elec.json", encoding="utf-8") as json_file:
     aelec_json = json.load(json_file)
 
 sql = "delete from melon_day_ab_elec_chart"
@@ -81,7 +81,7 @@ for i in range(RANK):
     cur.execute(sql, (aelec_json['entries'][i]['artist'], aelec_json['entries'][i]['title'], str(i + 1),aelec_json['entries'][i]['imgsrc'], aelec_json['entries'][i]['imgalt'],aelec_json['entries'][i]['videoId']))
     con.commit()
 
-with open("/json/melon_day_ab_folk.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ab_folk.json", encoding="utf-8") as json_file:
     afolk_json = json.load(json_file)
 
 sql = "delete from melon_day_ab_folk_chart"
@@ -93,7 +93,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_ballad.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_ballad.json", encoding="utf-8") as json_file:
     balla_json = json.load(json_file)
 
 sql = "delete from melon_day_ballad_chart"
@@ -105,7 +105,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_rnb.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_rnb.json", encoding="utf-8") as json_file:
     rnb_json = json.load(json_file)
 
 sql = "delete from melon_day_rnb_chart"
@@ -117,7 +117,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_rock.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_rock.json", encoding="utf-8") as json_file:
     rock_json = json.load(json_file)
 
 sql = "delete from melon_day_rock_chart"
@@ -129,7 +129,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_dance.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_dance.json", encoding="utf-8") as json_file:
     dance_json = json.load(json_file)
 
 sql = "delete from melon_day_dance_chart"
@@ -141,7 +141,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_hiphop.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_hiphop.json", encoding="utf-8") as json_file:
     hiphop_json = json.load(json_file)
 
 sql = "delete from melon_day_hiphop_chart"
@@ -153,7 +153,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_inde.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_inde.json", encoding="utf-8") as json_file:
     inde_json = json.load(json_file)
 
 sql = "delete from melon_day_inde_chart"
@@ -166,7 +166,7 @@ for i in range(RANK):
     con.commit()
 
 
-with open("/json/melon_day_folk.json", encoding="utf-8") as json_file:
+with open("/var/www/html/json/melon_day_folk.json", encoding="utf-8") as json_file:
     folk_json = json.load(json_file)
 
 sql = "delete from melon_day_folk_chart"

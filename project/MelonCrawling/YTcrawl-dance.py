@@ -89,7 +89,7 @@ def proxx():
     #                     'q=0.9,image/wepp,*/*;q=0.8;'}
     header = {'User-Agent': ua.random}
     session = requests.Session()
-    with open("/json/melon_day_dance.json", encoding="utf-8") as json_file:
+    with open("/var/www/html/json/melon_day_dance.json", encoding="utf-8") as json_file:
         dance_json = json.load(json_file)
 
     title = []
@@ -131,7 +131,7 @@ def proxx():
         d['videoId'] = str(title[a])
         a += 1
 
-    with open('/json/melon_day_dance.json', 'w', encoding="utf-8") as make_file:
+    with open('/var/www/html/json/melon_day_dance.json', 'w', encoding="utf-8") as make_file:
         json.dump(dance_json, make_file, ensure_ascii=False, indent="\t")
 
 

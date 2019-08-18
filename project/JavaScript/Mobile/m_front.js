@@ -9,14 +9,14 @@ var duplicate_index;
 function logout_ing() {
     var logout_check = confirm("로그아웃 하시겠습니까?");
     if (logout_check == true) {
-        location.href = './logout.php';
+        location.href = '/php/logout.php';
     } else if (logout_check == false) {
         return false;
     }
 }
 
 function my_page() {
-    window.open("about:blank").location.href = './my_page.php';
+    window.open("about:blank").location.href = '/php/my_page.php';
 }
 
 //위에 추가 부분 건드리면 x
@@ -133,8 +133,8 @@ function show_melon_apop_chart(this_id) {
             $(b).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
 
         }
 
@@ -157,8 +157,8 @@ function show_melon_arap_chart(this_id) {
             $(c).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -180,8 +180,8 @@ function show_melon_arock_chart(this_id) {
             $(d).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
     });
 
@@ -202,8 +202,8 @@ function show_melon_arnb_chart(this_id) {
             $(e).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -225,8 +225,8 @@ function show_melon_aelec_chart(this_id) {
             $(a).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
     });
 
@@ -248,8 +248,8 @@ function show_melon_afolk_chart(this_id) {
             $(z).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
     });
 
@@ -270,8 +270,8 @@ function show_melon_top100_chart(this_id) {
             $(f).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -292,8 +292,8 @@ function show_melon_bal_chart(this_id) {
             $(g).append('<tr class="chart" id=' + json.entries[i].videoId + '">' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -314,8 +314,8 @@ function show_melon_dance_chart(this_id) {
             $(h).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -336,8 +336,8 @@ function show_melon_hiphop_chart(this_id) {
             $(j).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -358,8 +358,8 @@ function show_melon_inde_chart(this_id) {
             $(k).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -380,8 +380,8 @@ function show_melon_rnb_chart(this_id) {
             $(l).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
 
     });
@@ -402,8 +402,8 @@ function show_melon_rock_chart(this_id) {
             $(m).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
     });
 
@@ -424,8 +424,8 @@ function show_melon_folk_chart(this_id) {
             $(n).append('<tr class="chart" id=' + json.entries[i].videoId + '>' + '<td id="rank">' + json.entries[i].rank + '</td>' +
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td class="artist">' + json.entries[i].artist + '</td>' + '<td class="title">' +
-                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
-                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
+                json.entries[i].title + '</td>' + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="/img/play_button.png"></img></td>' +
+                '</td><td id="addtolist"><img class="listaddbutton" onclick="" src="/img/plus_button.png"></img></td>' + '</tr>');
         }
     });
 
@@ -446,13 +446,13 @@ function ControlVideo() { //8월 1일 노드 재배치 수정
 
     //노드 재배치
 
-    if ($("#jb-footer .ongoing-player #control").attr('src') == "img/play.png") //플레이 버튼이면 
+    if ($("#jb-footer .ongoing-player #control").attr('src') == "/img/play.png") //플레이 버튼이면 
     {
         playVideo(); //재생
-        $("#jb-footer .ongoing-player #control").attr('src', 'img/pause.png');
+        $("#jb-footer .ongoing-player #control").attr('src', '/img/pause.png');
     } else {
         pauseVideo();
-        $("#jb-footer .ongoing-player #control").attr('src', 'img/play.png');
+        $("#jb-footer .ongoing-player #control").attr('src', '/img/play.png');
     }
 
 }
@@ -800,14 +800,14 @@ function add_playlist(event) { //플레이리스트추가 부분   8월3일 수�
 
     //재생목록추가
     var text = '<ol class="item">\
-            <div class="img"><img id="\'' + videoId + '\'" src="img/li_play.png" class="play" onClick="play_Music(\'' + videoId + '\',\'' + name + '\')">\
+            <div class="img"><img id="\'' + videoId + '\'" src="/img/li_play.png" class="play" onClick="play_Music(\'' + videoId + '\',\'' + name + '\')">\
             </div>\
             <div class="info">\
                 <span class="title">' + title + '</span>\
                 <br>\
                 <span class="artist">' + artist + '</span>\
             </div>\
-            <img class="remove" src="img/x_button.png">\
+            <img class="remove" src="/img/x_button.png">\
         </ol>';
 
     $("#user-playlist").append(text);
@@ -860,14 +860,14 @@ function showtube(ev) {
 
     //위치변경 0801 remove img로 변경 
     var text = '<ol class="item">\
-        <div class="img"><img id="\'' + video + '\'" src="img/li_play.png" class="play" onClick="play_Music(\'' + video + '\',\'' + name + '\')">\
+        <div class="img"><img id="\'' + video + '\'" src="/img/li_play.png" class="play" onClick="play_Music(\'' + video + '\',\'' + name + '\')">\
         </div>\
 		<div class="info">\
 			<span class="title">' + title + '</span>\
 			<br>\
 			<span class="artist">' + artist + '</span>\
         </div>\
-        <img class="remove" src="img/x_button.png">\
+        <img class="remove" src="/img/x_button.png">\
     </ol>';
 
 
@@ -906,8 +906,8 @@ function R_bu() {
         if (shuffle && totalLoop == false) { //셔플인데 전체재생이 off면 
             if (shufflecnt == cnt) { //재생이 끝이면 
                 alert("재생이 다되었습니다.");
-                $("#repeat-btn").attr('src', 'img/repeat_off.png');
-                $("#random-btn").attr('src', 'img/random_off.png'); //
+                $("#repeat-btn").attr('src', '/img/repeat_off.png');
+                $("#random-btn").attr('src', '/img/random_off.png'); //
                 stopVideo();
                 return;
             } else { //재생이 끝이 x
@@ -937,8 +937,8 @@ function R_bu() {
         if (shuffle && totalLoop == false) { //셔플이고 전체재생이 off인데 
             if (shufflecnt == cnt) { //재생이 끝이면 
                 alert("재생이 다되었습니다.");
-                $("#repeat-btn").attr('src', 'img/repeat_off.png');
-                $("#random-btn").attr('src', 'img/random_off.png'); //
+                $("#repeat-btn").attr('src', '/img/repeat_off.png');
+                $("#random-btn").attr('src', '/img/random_off.png'); //
                 stopVideo();
                 return;
             } else { //재생이 끝이 x
@@ -965,8 +965,8 @@ function R_bu() {
                 fun1();
             } else { //아니면 종료
                 alert("재생이 다되었습니다.");
-                $("#repeat-btn").attr('src', 'img/repeat_off.png');
-                $("#random-btn").attr('src', 'img/random_off.png');
+                $("#repeat-btn").attr('src', '/img/repeat_off.png');
+                $("#random-btn").attr('src', '/img/random_off.png');
                 stopVideo();
                 return;
             }
@@ -993,8 +993,8 @@ function L_bu() {
         if (shuffle && totalLoop == false) { //셔플인데 전체재생이 off면 
             if (shufflecnt == cnt) { //재생이 끝이면 
                 alert("재생이 다되었습니다.");
-                $("#repeat-btn").attr('src', 'img/repeat_off.png');
-                $("#random-btn").attr('src', 'img/random_off.png'); //
+                $("#repeat-btn").attr('src', '/img/repeat_off.png');
+                $("#random-btn").attr('src', '/img/random_off.png'); //
                 stopVideo();
                 return;
             } else { //재생이 끝이 x
@@ -1129,7 +1129,7 @@ function image_change() {
         var check = Element.getAttribute('style'); //style을 가져오고
         if (check != null) { //스타일이 적용되있으면 
             Element.removeAttribute('style'); //제거
-            Element.setAttribute("src", "img/li_play.png"); //원래 이미지로 바꿈
+            Element.setAttribute("src", "/img/li_play.png"); //원래 이미지로 바꿈
         }
     }
 }
@@ -1140,16 +1140,16 @@ function image_change() {
 
 $('#repeat-btn').on('touchstart', function () { //반복 버튼을 누를경우
 
-    if ($("#repeat-btn").attr('src') == "img/repeat_off.png") { //플레이 버튼이면 
-        $("#repeat-btn").attr('src', 'img/repeat_on.png');
+    if ($("#repeat-btn").attr('src') == "/img/repeat_off.png") { //플레이 버튼이면 
+        $("#repeat-btn").attr('src', '/img/repeat_on.png');
         stateOfLoop();
     } //전체반복 off면 on
-    else if ($("#repeat-btn").attr('src') == "img/repeat_on.png") {
-        $("#repeat-btn").attr('src', 'img/repeat_one.png');
+    else if ($("#repeat-btn").attr('src') == "/img/repeat_on.png") {
+        $("#repeat-btn").attr('src', '/img/repeat_one.png');
         stateOfLoop();
     } //전체반복 on이면 1 repaet
     else {
-        $("#repeat-btn").attr('src', 'img/repeat_off.png');
+        $("#repeat-btn").attr('src', '/img/repeat_off.png');
         stateOfLoop();
     } //off상태
 
@@ -1157,10 +1157,10 @@ $('#repeat-btn').on('touchstart', function () { //반복 버튼을 누를경우
 
 
 function stateOfLoop() {
-    if ($("#repeat-btn").attr('src') == "img/repeat_off.png") { //off면 둘다끔
+    if ($("#repeat-btn").attr('src') == "/img/repeat_off.png") { //off면 둘다끔
         OneLoop = false;
         totalLoop = false;
-    } else if ($("#repeat-btn").attr('src') == "img/repeat_on.png") { //전체반복 on이면
+    } else if ($("#repeat-btn").attr('src') == "/img/repeat_on.png") { //전체반복 on이면
         totalLoop = true;
         OneLoop = false;
 
@@ -1174,7 +1174,7 @@ function stateOfLoop() {
 
 //셔플구현
 function stateOfShuffle() {
-    if ($("#random-btn").attr('src') == "img/random_off.png") { //off 면 
+    if ($("#random-btn").attr('src') == "/img/random_off.png") { //off 면 
         shuffle = false; //셔플 false
     } else {
         shuffle = true; //셔플 on
@@ -1185,12 +1185,12 @@ function stateOfShuffle() {
 $('#random-btn').on('touchstart', function () { //랜덤 버튼을 누르면
 
 
-    if ($("#random-btn").attr('src') == "img/random_off.png") { //랜덤이 꺼져잇으면 
-        $("#random-btn").attr('src', 'img/random_on.png'); //랜덤 on으로
+    if ($("#random-btn").attr('src') == "/img/random_off.png") { //랜덤이 꺼져잇으면 
+        $("#random-btn").attr('src', '/img/random_on.png'); //랜덤 on으로
         randNumArr = randomIndexsort(); //셔플이켜질때 랜덤배엷배치
 
     } else {
-        $("#random-btn").attr('src', 'img/random_off.png'); //랜덤 off
+        $("#random-btn").attr('src', '/img/random_off.png'); //랜덤 off
     }
 
     return;
@@ -1309,7 +1309,7 @@ $('#multi-select').on('touchstart', function () { //여러개선택을 눌럿을
         multiSelcet.innerText="여러개선택";
         var element=$('#chartlist-ul tr .addtolist'); //추가할 element를 가져옴
         for(var i=0;i<element.length;i++){
-        if($(element[i].children[1]).attr('src') == "img/finger.png"){
+        if($(element[i].children[1]).attr('src') == "/img/finger.png"){
               $(element[i].children[1]).remove();
                    continue;
             }
@@ -1339,7 +1339,7 @@ $('.chartlist-ul').on('touchstart', function (ev) {
     }
 
     if(tmp.children.length==1){ //자식이 한개일때만 추가
-        var text='<img class="selected-music" src="img/finger.png">'
+        var text='<img class="selected-music" src="/img/finger.png">'
         $(tmp).append(text);
         return;
     }
@@ -1395,7 +1395,7 @@ $('#multi-add').on('touchstart',function(){
 
 var totalOn=false;
 $('#total-select').on('touchstart',function(){ //전체선택
-    var text='<img class="selected-music" src="img/finger.png">'
+    var text='<img class="selected-music" src="/img/finger.png">'
     var total_select=document.querySelector('#total-select');   
     var element=$('#chartlist-ul tr .addtolist'); //추가할 element를 가져옴
     
@@ -1418,7 +1418,7 @@ $('#total-select').on('touchstart',function(){ //전체선택
     } 
      else{ //on이면
       for(var i=0;i<element.length;i++){
-        if($(element[i].children[1]).attr('src') == "img/finger.png"){
+        if($(element[i].children[1]).attr('src') == "/img/finger.png"){
             continue;
         }
         else{
@@ -1448,14 +1448,14 @@ function add_selected_playlist(node) { //플레이리스트추가 부분   8월3
 
     //재생목록추가
     var text = '<ol class="item">\
-            <div class="img"><img id="\'' + videoId + '\'" src="img/li_play.png" class="play" onClick="play_Music(\'' + videoId + '\',\'' + name + '\')">\
+            <div class="img"><img id="\'' + videoId + '\'" src="/img/li_play.png" class="play" onClick="play_Music(\'' + videoId + '\',\'' + name + '\')">\
             </div>\
             <div class="info">\
                 <span class="title">' + title + '</span>\
                 <br>\
                 <span class="artist">' + artist + '</span>\
             </div>\
-            <img class="remove" src="img/x_button.png">\
+            <img class="remove" src="/img/x_button.png">\
         </ol>';
 
     $("#user-playlist").append(text);
@@ -1519,7 +1519,7 @@ function savethislist() {
    
 
     $.ajax({
-        url: "./addplaylist.php",
+        url: "/php/addplaylist.php",
         type: "POST",
         dataType: "text",
         data: jsondata,

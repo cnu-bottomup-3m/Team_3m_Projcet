@@ -67,12 +67,10 @@ var text = '<ol class="item">\
 
 $('#sbtn').on('touchstart',function(){ //검색 텍스트값 비워주기
     $('.liist_').css('display','block');
-console.log(document.getElementById("sin").value);
 var videoId=String(videoIdBox[document.getElementById("sin").value]).trim();
 var modal = document.getElementById("upload_");
 var text=String(document.getElementById("sin").value);
 text=text.split(' - ');
-console.log(text);
 var title=text[1].trim();
 var artist=text[0].trim();
 serach_addPlaylist(title,artist,videoId); //플레이리스트 추가

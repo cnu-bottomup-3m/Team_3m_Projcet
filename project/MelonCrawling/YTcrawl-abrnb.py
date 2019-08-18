@@ -91,7 +91,7 @@ def proxx():
 
     ipconfig = 'http://httpbin.org/ip'
     print(session.get(ipconfig).text)
-    with open("/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
+    with open("/var/www/html/json/melon_day_ab_rnb.json", encoding="utf-8") as json_file:
         arnb_json = json.load(json_file)
 
     title = []
@@ -133,7 +133,7 @@ def proxx():
         d['videoId'] = str(title[a])
         a += 1
 
-    with open('/json/melon_day_ab_rnb.json', 'w', encoding="utf-8") as make_file:
+    with open('/var/www/html/json/melon_day_ab_rnb.json', 'w', encoding="utf-8") as make_file:
         json.dump(arnb_json, make_file, ensure_ascii=False, indent="\t")
 
 

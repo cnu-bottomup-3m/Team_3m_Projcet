@@ -92,7 +92,7 @@ def proxx():
 
     session = requests.Session()
 
-    with open("/json/melon_day_ballad.json", encoding="utf-8") as json_file:
+    with open("/var/www/html/json/melon_day_ballad.json", encoding="utf-8") as json_file:
         ballad_json = json.load(json_file)
 
     title = []
@@ -134,7 +134,7 @@ def proxx():
         d['videoId'] = str(title[a])
         a += 1
 
-    with open('/json/melon_day_ballad.json', 'w', encoding="utf-8") as make_file:
+    with open('/var/www/html/json/melon_day_ballad.json', 'w', encoding="utf-8") as make_file:
         json.dump(ballad_json, make_file, ensure_ascii=False, indent="\t")
 
 
