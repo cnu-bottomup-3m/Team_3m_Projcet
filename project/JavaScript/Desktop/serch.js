@@ -23,7 +23,7 @@
                 var modal = document.getElementById("upload_");
                 var text=String(ui.item.value);
                 text=text.split(' - ');
-                console.log(text);
+
                 var title=text[1].trim();
                 var artist=text[0].trim();
                 

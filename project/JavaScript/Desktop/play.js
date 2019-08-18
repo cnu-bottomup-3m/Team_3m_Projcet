@@ -136,7 +136,7 @@ function init_Setting() {
     current_title = current_title.split(' - ');
     current_title = String(current_title[0] + current_title[1]); //현재 재생중인노래 제목
     current_title = current_title.trim();
-    console.log(current_title);
+  
 
     Find_Index(); //플레이 인덱스 번호를 찾음
 
@@ -186,7 +186,6 @@ function init_Setting() {
 (function () {
     var obj = JSON.parse(sessionStorage.getItem("now-playing"));
     if (obj != null) {
-        console.log(obj['videoId']);
         play_Music(obj['videoId'], obj['song']);
     }
 }());

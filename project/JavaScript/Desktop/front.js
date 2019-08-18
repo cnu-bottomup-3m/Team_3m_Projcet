@@ -521,8 +521,7 @@ function search() {
 function modal(this_id) {
     var modal = document.getElementById("upload_");
     modal.style.display = "block";
-    console.log("sex");
-
+    
 
     window.onclick = function (event) {
         if (event.target == modal) {
@@ -690,10 +689,8 @@ $('#user-playlist').on('click', function (event) {
         return;
 
     remove_playlist(event);
-    console.log(event.target.parentNode.children[0].children[0].id);
     sessionStorage.removeItem(event.target.parentNode.children[0].children[0].id);
     var obj = JSON.parse(sessionStorage.getItem("now-playing"));
-    console.log(obj['videoId']);
     if ("'" + obj['videoId'] + "'" == event.target.parentNode.children[0].children[0].id) {
         sessionStorage.removeItem('now-playing');
     }
@@ -716,7 +713,6 @@ function remove_playlist(event) {
     if (current_title == "") { //아무것도없으면
         var user_playlist = document.querySelector('#user-playlist');
         var child = event.target.parentElement;
-        console.log(child);
         user_playlist.removeChild(child);
 
         randNumArr = randomIndexsort();
@@ -784,8 +780,6 @@ function remove_playlist(event) {
 }
 
 function add_playlist(event) { //플레이리스트추가 부분   8월3일 수정
-
-    console.log(event.target.parentNode.parentNode.id);
 
     var target = event.target.parentElement.parentElement;
     var artist = target.children[2].innerText;
@@ -1055,7 +1049,6 @@ $("#user-playlist").sortable({
     start: function (event, ui) {
         startpos = ui.item.index();
         check_title = ui.item[0].children[1].children[0].innerText.trim();
-        console.log(startpos);
     },
     stop: function (event, ui) {
         cur_title = String(document.querySelector(".ongoing-player #music-title").innerText); //현재재생중인거
@@ -1092,17 +1085,14 @@ function Find_Index() {
 
 function Find_duplicate(cur_title, cur_artist) { //중복검사
 
-    console.log("find duplicate");
     var userPlayer = document.querySelector('#user-playlist')
     var playLen = userPlayer.children.length;
     var name = String(cur_artist + cur_title);
     name = name.trim();
 
-    console.log(name);
     for (var i = 0; i < playLen; i++) {
         var tmp = String(userPlayer.children[i].children[1].children[2].innerText + userPlayer.children[i].children[1].children[0].innerText);
         tmp = tmp.trim();
-        console.log(tmp);
         IndexArray[i] = tmp;
     } //재생리스트 목록 배열에 다넣음
 
@@ -1323,8 +1313,7 @@ $('#chartlist-ul').on('click', function (ev) {
     var p_node = tmp.parentElement;
     var title = p_node.children[3].innerText;
     var artist = p_node.children[2].innerText;
-    console.log(tmp);
-
+    
 
     if (!Find_duplicate(title, artist)) {
         alert("재생목록에 이미 존재 합니다.");
@@ -1457,8 +1446,7 @@ function savethislist() {
     var nowplaylist = document.getElementById("user-playlist");
     var nowsongs = nowplaylist.children;
     var playlistlist = document.getElementById("listofmyplaylist");
-    console.log(nowsongs);
-
+    
     if (nowsongs.length == 0) {
         alert("저장할 노래가 존재하지 않습니다.");
         return;
@@ -1482,7 +1470,6 @@ function savethislist() {
     }
 
     for (var i = 0; i < nowsongs.length; i++) {
-        console.log(nowsongs[i]);
         var title = nowsongs[i].children[1].children[0].innerText;
         var artist = nowsongs[i].children[1].children[2].innerText;
         var videoID = nowsongs[i].children[0].children[0].id;
@@ -1492,19 +1479,10 @@ function savethislist() {
         playingsongArray.push(data);
 
     }
-    console.log(playingsongArray);
-
     forsending.songlist = playingsongArray;
-    console.log(forsending);
-    console.log(JSON.stringify(forsending));
     var jsondata = JSON.stringify(forsending);
     jsondata = jsondata.replaceAll("'", "");
 
-
-
-
-    console.log(jsondata);
-    console.log(JSON.parse(jsondata));
 
     $.ajax({
         url: "/php/addplaylist.php",
@@ -1524,7 +1502,6 @@ function savethislist() {
             playli.appendChild(playliname);
             playli.appendChild(playlidltbtn);
 
-            console.log(playlistlist.children.length);
             if (playlistlist.children.length == 0) {
                 playlistlist.appendChild(playli);
                 alert(result);
@@ -1546,8 +1523,6 @@ function savethislist() {
             }
         },
         error: function (request, error) {
-            console.log(request);
-            console.log(arguments + " " + error);
             alert(" Can't do because: " + error);
         }
     });
@@ -1580,7 +1555,6 @@ String.prototype.replaceAll = function (org, dest) {
 
 function get_thisplaylist(ev) {
     var playlistname = ev.target.innerText;
-    console.log(playlistname);
     $.ajax({
         url: "/php/getPlaylist.php",
         type: "POST",
