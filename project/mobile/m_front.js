@@ -126,9 +126,7 @@ function show_melon_apop_chart(this_id) {
                 '<td id="thumbnail">' + '<img class="albumcover" width="70" height="70" src="' + json.entries[i].imgsrc +
                 '" alt="' + json.entries[i].imgalt + '"> </td>' + '<td >'+ '<h3 class="artist">'+ json.entries[i].artist+'</h3>'+'<h4 class="title">'+json.entries[i].title +'</h4>'  + '<td class="onplay"><img id="playbutton" onclick="showtube(event)" class="state" src="img/play_button.png"></img></td>' +
                 '</td><td class="addtolist"><img class="listaddbutton" onclick="" src="img/plus_button.png"></img></td>' + '</tr>');
-
         }
-
     });
     // var temp_1 = document.getElementById(this_id);
     // document.getElementById('h2_1').innerHTML = temp_1.innerText;
@@ -744,6 +742,8 @@ $('#user-playlist').on('touchstart', function (event) { //8월 2일 버그 수�
 
 
 function showtube(ev) {
+
+  
     $("#control123").attr('src', '/img/pause.png');
     event = ev;
     var video = event.target.parentElement.parentElement.id;
@@ -941,18 +941,18 @@ function L_bu() {
     }
 }
 
-
-
 //재생목록 실행하기위해 옮김 0801
-function play_Music(video, name) {
+ function play_Music(video, name) {
+ 
+     image_change(); //play_Music 실행시 style 제거
 
+     loadVideoById(video, 0, 5);
+     $("#music-title").text(name);
 
-    image_change(); //play_Music 실행시 style 제거
-
-    loadVideoById(video, 0, 5);
-
-    $("#music-title").text(name);
-}
+     for(var i = 0 ; i < $('.play').length ; i ++){
+        $('.play')[i].setAttribute("src", "img/li_play.png");
+     }
+ }
 
 
 var cur_title; //현재재생중인거
@@ -1192,8 +1192,6 @@ $('#multi-select').on('touchstart', function () { //여러개선택을 눌럿을
     else{
         multiOn=false;
     }
-
-   
     
      if(multiOn){
      multi_selcet=true;
@@ -1206,7 +1204,6 @@ $('#multi-select').on('touchstart', function () { //여러개선택을 눌럿을
      multiSelcet.innerText="여러개취소";
      alert("여러개 선택이 켜졌습니다.");
     }
-    
     else{
         multi_selcet=false;
         $('#multi-add').css("display","none"); //작업이 끝나면 안보이게
@@ -1620,3 +1617,11 @@ $('#myplaylist_btn').on('touchstart',function(){ //검색 텍스트값 비워주
     }
 
 }
+$('#chart_').on('touchstart',function(){ //검색 텍스트값 비워주기
+    var multiSelcet=document.querySelector('#multi-select');
+    if(multiSelcet.value == "MultiOff"){
+        alert("여러개 담기중입니다.");  }
+  });
+
+
+  
